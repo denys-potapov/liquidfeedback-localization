@@ -1,0 +1,2410 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Registration"
+msgstr "Регистрация"
+
+msgid "This issue has been canceled. It failed the quorum of #{quorum}."
+msgstr "Этот вопрос был снят. Кворум из  #{quorum} участников не был собран."
+
+msgid "You are not participating in any of the #{count} areas in this unit"
+msgstr "Вы не участвуете ни в одной из #{count} Тем этого Сообщества"
+
+msgid "Please enter your new password twice."
+msgstr "Пожалуйста, дважды введите пароль:"
+
+msgid "Member is not participating in the only area of the unit"
+msgstr "Пользователь не участвует в одной Теме Сообщества"
+
+msgid "Policy list"
+msgstr "Список Правил голосования"
+
+msgid "Current unit and area delegations need confirmation"
+msgstr "Актуальные делегирования Сообщества и Темы требуют подтверждения"
+
+msgid "Timeline"
+msgstr "История"
+
+msgid "Approved"
+msgstr "Одобрено"
+
+msgid "Logout"
+msgstr "Выход"
+
+msgid "Repeat new password"
+msgstr "Повторить новый пароль"
+
+msgid "One of them have an area delegation set"
+msgstr "Для одного из них установлено делегирование Темы"
+
+msgid "[Name of Language]"
+msgstr "Русский"
+
+msgid "Change login"
+msgstr "Изменить Login-имя"
+
+msgid "#{policy} ##{id}"
+msgstr "#{policy} №#{id}"
+
+msgid "Delegations"
+msgstr "Делегирования"
+
+msgid "[event mail] Unit: #{name}"
+msgstr " Сообщество: #{name}"
+
+msgid "You can't suggest the initiative you are revoking"
+msgstr "Вы не можете предложить Инициативу которую вы хотите отозвать"
+
+msgid "Newest"
+msgstr "Самые последние"
+
+msgid "New"
+msgstr "Новые"
+
+msgid "Degree"
+msgstr "Модус"
+
+msgid "Voting comment"
+msgstr "Комментарии к голосованию"
+
+msgid "Create new unit"
+msgstr "Создать новое Сообщество"
+
+msgid "Phases"
+msgstr "Фазы"
+
+msgid "Memberships"
+msgstr "Членство"
+
+msgid "Edit my page"
+msgstr "Редактировать мою страницу"
+
+msgid "Member is not participating in any of the #{count} areas in this unit"
+msgstr "Пользователь не участвует ни в одной из #{count} Тем этого Сообщества"
+
+msgid "Search for issues"
+msgstr "Поиск Вопросов"
+
+msgid "Discuss with initiators"
+msgstr "Дискуссия с инициаторами"
+
+msgid "Finished"
+msgstr "Завершены"
+
+msgid "Indirect majority"
+msgstr "Непрямое большинство"
+
+msgid "Please choose two versions of the draft to compare"
+msgstr "Выберите, пожалуйста, две версии черновика для сравнения."
+
+msgid "Interest not existent"
+msgstr "Интерес не существует"
+
+msgid "#{date} at #{time}"
+msgstr "#{date} в #{time}"
+
+msgid "Approval (first preference) [many entries]"
+msgstr "Одобрение (первое предпочтение)"
+
+msgid "Unit"
+msgstr "Сообщество"
+
+msgid "You are already supporting the latest draft"
+msgstr "Вы уже поддерживаете самый последний вариант"
+
+msgid "[event mail] Issue: ##{id}"
+msgstr " Вопрос: ##{id}"
+
+msgid "Real name"
+msgstr "Настоящие Ф.И.О."
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Select language \"#{langcode}\""
+msgstr "Выбрать язык \"#{langcode}\""
+
+msgid "We have sent an email with activation link already in the last hour. Please try again later."
+msgstr "Мы уже отправили на указаный адрес письмо с ссылкой для активации за последний час. Пожалуйста, повторите попытку позже."
+
+msgid "This site is using"
+msgstr "Этот сайт использует"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "i#{id}: #{name}"
+msgstr ""
+
+msgid "months [interval]"
+msgstr "Месяцев"
+
+msgid "Preview voting comment"
+msgstr "Просмотреть коментарии к голосованию"
+
+msgid "Sorry, but there is not confirmed email address for your account. Please contact the administrator or support."
+msgstr "Извините, но Ваш E-Mail адрес не подтвержден. Пожалуйста, свяжитесь с Администратором или службой поддержки"
+
+msgid "Initiative revoked"
+msgstr "Инициатива отозвана"
+
+msgid "Voted"
+msgstr "Проголосованы"
+
+msgid "You have ignored this member"
+msgstr "Вы игнорируете данного Пользователя"
+
+msgid "Current phase is already closed."
+msgstr "Актуальная фаза уже завершена."
+
+msgid "Voting"
+msgstr "Голосование"
+
+msgid "Interested members"
+msgstr "Заинтересованные пользователи"
+
+msgid "New drafts for #{count} initiative(s) you are supporting"
+msgstr "Для #{count} вами поддерживаемых инициатив опубликованы новые варианты"
+
+msgid "Internal posts"
+msgstr "Должность"
+
+msgid "[event mail] Event: #{event}"
+msgstr " Событие: #{event}"
+
+msgid "Please enter your email address. You will receive an email with your login name."
+msgstr "Пожалуйста, введите Ваш E-Mail адрес. Вы получите E-Mail с именем Пользователя"
+
+msgid "#{number} Image(s) has been deleted"
+msgstr "#{number} картина(ок) было удалено"
+
+msgid "Invitation to LiquidFeedback"
+msgstr "Приглашение в LiquidFeedback"
+
+msgid "Invite an initiator to initiative"
+msgstr "Пригласить инициатора"
+
+msgid "Abstention [single entry]"
+msgstr "Воздержалась/Воздержался"
+
+msgid "You have not voted #{count} issue(s) you were interested in"
+msgstr "Вы не голосовали по  #{count} Вопросам, в которых Вы были заинтересованы"
+
+msgid "Areas"
+msgstr "Темы"
+
+msgid "Outgoing delegations"
+msgstr "Исходящие делегирования"
+
+msgid "Member is participating in this area"
+msgstr "Пользователь участвует в этой Теме"
+
+msgid "Email address is confirmed now"
+msgstr "E-Mail адрес теперь подтвержден"
+
+msgid "Last snapshot:"
+msgstr "Последний снепшот:"
+
+msgid "You are participating in this area"
+msgstr "Вы участвуете в этой Теме"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "confirm"
+msgstr "подтвердить"
+
+msgid "Approval (third preference) [single entry]"
+msgstr "Одобрение (третее предпочтение)"
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "The draft of this initiative has been updated!"
+msgstr "Вариант текста инициативы был актуализирован!"
+
+msgid "Initiator invites"
+msgstr "Приглашения"
+
+msgid "Create new issue"
+msgstr "Внести новый Вопрос"
+
+msgid "Disapproval (prefer to last block) [single entry]"
+msgstr "Неодобрение (однако предпочтение предидущему блоку)"
+
+msgid "#{count} more areas in this unit"
+msgstr "#{count} других(е) Тем(ы) в этом Сообществе"
+
+msgid "Set global delegation"
+msgstr "Установить глобальное делегирование"
+
+msgid "Source"
+msgstr "Исходный текст"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "You are already initiator"
+msgstr "Вы уже являетесь Инициатором"
+
+msgid "Approval (second preference) [single entry]"
+msgstr "Одобрение (второе предпочтение)"
+
+msgid "Delegation turned off for area"
+msgstr "Делегирование отменено для  Темы"
+
+msgid "revoke"
+msgstr "отозвать"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "days [interval]"
+msgstr "дней (дня)"
+
+msgid "Show older events"
+msgstr "Показать более ранние События"
+
+msgid "year [interval time left]"
+msgstr "год"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "must"
+msgstr "должно быть"
+
+msgid "Voted no"
+msgstr "Проголосовали против"
+
+msgid "Last activity (updated daily)"
+msgstr "Последняя активность (ежедневно актуализируется)"
+
+msgid "Member: '#{identification}' (#{name})"
+msgstr "Пользователь: '#{identification}' (#{name})"
+
+msgid "This name is already taken, please choose another one!"
+msgstr "Это Полное имя уже используется, пожалуйста, выберите себе другое!"
+
+msgid "Direct majority positive"
+msgstr "Прямое большинство позитивно"
+
+msgid "Voting comment (optional)"
+msgstr "Коментарий к голосованию (опционально)"
+
+msgid "day [interval ago]"
+msgstr "день (дня)"
+
+msgid "Become a member"
+msgstr "Стать пользователем."
+
+msgid "Strict indirect majority"
+msgstr "Строгое непрямое большинство"
+
+msgid "Your email address has been changed, please check for confirmation email with activation link!"
+msgstr "Ваш E-Mail адрес был изменен, пожалуйста, проверьте вашу электронную почту на наличие подтверждения с ссылкой для активации."
+
+msgid "No potential supporters (before begin of voting)"
+msgstr "Нет условных сторонников (к началу голосования)"
+
+msgid "Membership updated"
+msgstr "Регистрация актуализирована"
+
+msgid "Voted yes"
+msgstr "Проголосовали за"
+
+msgid "You didn't confirm your email address '#{email}'. You have received an email with an activation link."
+msgstr "Вы не подтвердили свой E-Mail адрес '#{email}'. Вы должны получить E-Mail с ссылкой на подтверждение активации."
+
+msgid "Sorry, your contingent for creating initiatives has been used up. Please try again later."
+msgstr "Извините, Ваша квота на создание инициатив была исчерпана. Пожалуйста, попробуйте позже!"
+
+msgid "Indirect majority non negative"
+msgstr "Непрямое большенство не негативно"
+
+msgid "Canceled (during discussion due to revocation)"
+msgstr "Отменена (во время обсуждения, в следствие отзыва)"
+
+msgid "Canceled"
+msgstr "Отменены"
+
+msgid "List all revisions (#{count})"
+msgstr "Показать все версии (#{count})"
+
+msgid "Member of area"
+msgstr "Участник этой Темы"
+
+msgid "inactive"
+msgstr "неактивное"
+
+msgid "Active?"
+msgstr "Активирован?"
+
+msgid "Direct majority denumerator"
+msgstr "Знаменатель прямого большинства"
+
+msgid "This initiative is already revoked"
+msgstr "Эта Инициатива уже отозвана"
+
+msgid "No events selected to list"
+msgstr "Никакие события не были выбраны"
+
+msgid "Please choose a password and enter it twice. The password is case sensitive."
+msgstr "Укажите, пожалуйста, дважды ваш пароль. Пароль чувствителен к регистру символов."
+
+msgid "Show only events which match... (or associtated)"
+msgstr "Показать события по маске ... (логическое или)"
+
+msgid "Unit list"
+msgstr "Список Сообществ"
+
+msgid "[event mail] Phase: #{phase}"
+msgstr " Фаза: #{phase}"
+
+msgid "This title is really too short!"
+msgstr "Это название сильно короткое!"
+
+msgid "Accepted at"
+msgstr "Принято к рассмотрению с"
+
+msgid "Profession"
+msgstr "Профессия"
+
+msgid ")) == "
+msgstr ""
+
+msgid "Frozen"
+msgstr "Сверка"
+
+msgid "Implicitly admitted"
+msgstr "Неявно допущенный"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "You need to be logged in, to use all features of this system."
+msgstr "Для использования полного функционала Вы должны войти в систему."
+
+msgid "Manage filter"
+msgstr "Управление фильтрами"
+
+msgid "JavaScript is disabled or not available."
+msgstr "JavaScript выключен или недоступен."
+
+msgid "This member is already initiator of this initiative"
+msgstr "Этот Пользователь уже является Инициатором данной Инициативы"
+
+msgid "Incoming delegations"
+msgstr "Входящие делегирования"
+
+msgid "You are supporter"
+msgstr "Вы сторонник"
+
+msgid "Latest draft created at #{date} #{time}"
+msgstr "Последний вариант от #{date} в #{time}"
+
+msgid "Email address confirmation"
+msgstr "Подтверждение E-Mail адреса"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Your vote has been discarded. Delegation rules apply if set."
+msgstr "Ваш голос был отозван. Применяются установленные правила делегирования."
+
+msgid "Published"
+msgstr "Опубликован"
+
+msgid "External memberships"
+msgstr "Членство в других организациях"
+
+msgid "Change name"
+msgstr "Изменить имя"
+
+msgid "Oldest"
+msgstr "Самые ранние"
+
+msgid "none"
+msgstr "отсутсвует"
+
+msgid "Old password is wrong"
+msgstr "Старый пароль неверен"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Upload images"
+msgstr "Загрузить изображения"
+
+msgid "Change issue delegation"
+msgstr "Изменить делегирование для Вопроса"
+
+msgid "#{count} of your outgoing delegation(s) are broken"
+msgstr "#{count} ваших делегирований повреждены"
+
+msgid "Draft"
+msgstr "Черновик"
+
+msgid "Suggestion currently implemented"
+msgstr "Предложение сейчас учтено"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "You are supporter of this initiative"
+msgstr "Вы сторонник этой инициативы"
+
+msgid "Your support has been removed from this initiative"
+msgstr "Ваша поддержка была удалена для данной Инициативы"
+
+msgid "Member page"
+msgstr "Страница пользователей"
+
+msgid "Member has voting privileges for this unit"
+msgstr "Пользователь имеет право голоса в этом Сообществе"
+
+msgid "until"
+msgstr "до"
+
+msgid "Direct majority"
+msgstr "Прямое большинство"
+
+msgid "Add to my contacts"
+msgstr "Добавить к моим контактам"
+
+msgid "Canceled (issue not accepted)"
+msgstr "Отменен (Вопрос не принят)"
+
+msgid "This email address is too short!"
+msgstr "E-Mail адрес сильно короткий!"
+
+msgid "Voting for this issue has already begun."
+msgstr "Голосование по данному Вопросу уже началось."
+
+msgid "Counting starts soon"
+msgstr "Подсчёт скоро начнётся"
+
+msgid "Search members"
+msgstr "Поиск пользователей"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Finished (with winner)"
+msgstr "Завершено (с победителем)"
+
+msgid "Save current filter"
+msgstr "Сохранить текущий фильтр"
+
+msgid "and #{count} more initiatives"
+msgstr "и еще #{count} инициатив"
+
+msgid "Suggest no initiative"
+msgstr "Никакую Инициативу не рекомендавать"
+
+msgid "Email address"
+msgstr "E-Mail адрес"
+
+msgid "Show filter details"
+msgstr "Показать детали фильтра"
+
+msgid "Refuse invitation"
+msgstr "Отказаться от приглашения"
+
+msgid "Send invite?"
+msgstr "Послать приглашение?"
+
+msgid "Only for issues reaching the frozen phase"
+msgstr "Только по вопросам в фазе Сверка."
+
+msgid "Login name request"
+msgstr "Напомнить имя входа"
+
+msgid "Abandon unit and area delegations for this issue"
+msgstr "Приостановить делегирование на уровне Сообществ и Тем для этого вопроса"
+
+msgid "+getElementById("
+msgstr ""
+
+msgid "Screen name"
+msgstr "Имя в системе (ник)"
+
+msgid "Disapproval (prefer to lower blocks) [single entry]"
+msgstr "Неодобрение (однако предпочтение следующим блокам)"
+
+msgid "Missing help text: #{id}.#{lang}.txt"
+msgstr "Текст справки отсутствует: #{id}.#{lang}.txt"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Member list"
+msgstr "Список пользователей"
+
+msgid "Status quo: #{rank}"
+msgstr "Статус кво: #{rank}"
+
+msgid "Member inactive?"
+msgstr "Пользователь деактивирован?"
+
+msgid "New address"
+msgstr "Новый E-Mail"
+
+msgid "Area delegation"
+msgstr "Делегирование Темы"
+
+msgid "Start search"
+msgstr "Начать поиск"
+
+msgid "Today at #{time}"
+msgstr "Сегодня в #{time}"
+
+msgid "[event mail] Policy: #{policy}"
+msgstr " Правило голосования: #{policy}"
+
+msgid "Edit initiative"
+msgstr "Редактировать инициативу"
+
+msgid "Disapproval [many entries]"
+msgstr "Неодобрения"
+
+msgid "Supported"
+msgstr "Поддержаны"
+
+msgid "to reset your password please click on the following link:\n\n"
+msgstr "для сброса Вашего пароля перейдите по следующей ссылке:\n\n"
+
+msgid "My units"
+msgstr "Мои Сообщества"
+
+msgid "Identification"
+msgstr "Идентификация"
+
+msgid "Discussion on issue"
+msgstr "Дискуссия по Вопросу"
+
+msgid "Potentially supported"
+msgstr "Поддержка возможна"
+
+msgid "delete<br /><br />"
+msgstr "удалить<br /><br />"
+
+msgid "Initiative quorum denumerator"
+msgstr "Знаменатель кворума инициативы"
+
+msgid "Voters"
+msgstr "Голосовавшие"
+
+msgid "Add alternative initiative to issue"
+msgstr "Добавить к Вопросу альтернативную Инициативу"
+
+msgid "Hint"
+msgstr "Совет"
+
+msgid "Old password"
+msgstr "Старый пароль"
+
+msgid "Broken delegations"
+msgstr "Поврежденные делегирования"
+
+msgid "This suggestion has been meanwhile deleted"
+msgstr "Это предложение было сейчас удалено"
+
+msgid "Indirect majority numerator"
+msgstr "Числитель непрямого большенства"
+
+msgid "Approval [single entry]"
+msgstr "Одобрен(а)"
+
+msgid "Any phase"
+msgstr "Все фазы"
+
+msgid "No supporters"
+msgstr "Нет сторонников"
+
+msgid "Registration (step 2 of 3: Personal information)"
+msgstr "Регистрация (Шаг 2 из 3:  Персональная информация)"
+
+msgid "One issue you are interested in"
+msgstr "Один Вопрос, который тебя интересует"
+
+msgid "Fully frozen at"
+msgstr "В голосовании с"
+
+msgid "(#{more_count} duplicates removed)"
+msgstr "(#{more_count} дубликатов удалено)"
+
+msgid "Reset code"
+msgstr "код сброса"
+
+msgid "API key has been deleted"
+msgstr "API-Ключ удален"
+
+msgid "Cancel [nullify]"
+msgstr "Отменить"
+
+msgid "with winner"
+msgstr "С победителем"
+
+msgid "month [interval ago]"
+msgstr "Месяц"
+
+msgid "Check your delegations!"
+msgstr "Проверить ваши делегирования"
+
+msgid "Remove from contacts"
+msgstr "Удалить из контактов"
+
+msgid "Abandon unit delegation"
+msgstr "Приостановить делегирование на уровне Сообщества"
+
+msgid "Policy"
+msgstr "Правило голосования"
+
+msgid "Website"
+msgstr "Вебстраница"
+
+msgid "a bit unsatisfied"
+msgstr "немного не удовлетворен"
+
+msgid "Show inactive units"
+msgstr "Показать деактивированные Сообщества"
+
+msgid "Edit my profile"
+msgstr "Редактировать мой профиль"
+
+msgid "Your rating has been deleted"
+msgstr "Ваш рейтинг был удален"
+
+msgid "By delegation"
+msgstr "По делегированию"
+
+msgid "month [interval]"
+msgstr "Месяц"
+
+msgid "Password has been reset successfully"
+msgstr "Пароль успешно переустановлен"
+
+msgid "One issue"
+msgstr "Один Вопрос"
+
+msgid "Voting comment available"
+msgstr "Доступен коментарий к голосованию"
+
+msgid "action"
+msgstr "Действие"
+
+msgid "Issue has been canceled"
+msgstr "Вопрос был снят"
+
+msgid "Voting has not started yet."
+msgstr "Голосование еще не началось."
+
+msgid "Issue pad"
+msgstr "Pad к Вопросу"
+
+msgid "On that page please enter the invite key:\n\n"
+msgstr "На этой странице введите код приглашения:\n\n"
+
+msgid "Direct"
+msgstr "Напрямую"
+
+msgid "years [interval ago]"
+msgstr "лет"
+
+msgid "Parent unit"
+msgstr "Вышестоящий Сообщество"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "This member is supporter of this initiative via delegation"
+msgstr "Этот пользователь сторонник этой инициативы благодаря делегированию"
+
+msgid "Rendered"
+msgstr "Форматировано"
+
+msgid "Change unit delegation"
+msgstr "Изменить делегирование для Сообщества"
+
+msgid "Supporters"
+msgstr "Сторонники"
+
+msgid "variable"
+msgstr "переменная"
+
+msgid "Voting comment (last updated: #{timestamp})"
+msgstr "Коментарий к голосованию (Последнее обновление: #{timestamp})"
+
+msgid "Change your login"
+msgstr "Изменить ваше Login-имя"
+
+msgid "Please confirm your email address by clicking the following link:\n\n"
+msgstr "Подтвердите ваш E-Mail нажав на линк:\n\n"
+
+msgid "#{interval_text} ago"
+msgstr "#{interval_text} назад"
+
+msgid "Voting started"
+msgstr "Голосование началось"
+
+msgid "Cancel issue #{id}"
+msgstr "Снять Вопрос #{id}"
+
+msgid "Configure notifications now"
+msgstr "Конфигурировать установки оповещения"
+
+msgid "Cancel registration"
+msgstr "Отменить регистрацию"
+
+msgid "Passwords don't match!"
+msgstr "Пароли не совпадают!"
+
+msgid "API Key"
+msgstr "API-Ключ"
+
+msgid "Disapproval (prefer to last block) [many entries]"
+msgstr "Неодобрение (однако предпочтение предидущему блоку)"
+
+msgid "Abstention [many entries]"
+msgstr "Воздержалось"
+
+msgid "Verification time"
+msgstr "Время на сверку"
+
+msgid "Participants"
+msgstr "Участники"
+
+msgid "This member account has been created at #{created}"
+msgstr "Этот пользователь был создан #{created}."
+
+msgid "Please enter your login name. You will receive an email with a link to reset your password."
+msgstr "Пожалуйста, введите имя Пользователя. Вы получите E-Mail с сылкой для сброса вашего пароля."
+
+msgid "Other failures"
+msgstr "Другие недостатки"
+
+msgid "Discussion"
+msgstr "Дискуссия"
+
+msgid "Potential supported"
+msgstr "Поддержка возможна"
+
+msgid "Edit draft"
+msgstr "Редактировать черновик"
+
+msgid "Quorum"
+msgstr "Кворум"
+
+msgid "Show policies not in use"
+msgstr "Показать неиспользуемые Правила"
+
+msgid "Reset password"
+msgstr "Перезадать пароль"
+
+msgid "Unknown author"
+msgstr "Не известный автор"
+
+msgid "Membership not existent"
+msgstr "Регистрации не существует"
+
+msgid "Schulze rank"
+msgstr "Schulze-Ранг"
+
+msgid "Area list of '#{unit_name}'"
+msgstr "Список Тем Сообщества '#{unit_name}'"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "months [interval time left]"
+msgstr "Месяцев"
+
+msgid "#{count} finished"
+msgstr "#{count} завершены"
+
+msgid "Currently no API key is set."
+msgstr "Сейчас API - ключ не установлен."
+
+msgid "Ignore initiative"
+msgstr "Игнорировать инициативу"
+
+msgid "Show areas not in use"
+msgstr "Показать не используемые Темы"
+
+msgid "You are potential supporter"
+msgstr "Вы условный сторонник"
+
+msgid "at least #{count} approvals or abstentions"
+msgstr "как минимум #{count} одобрений или воздержавшихся"
+
+msgid "Initiative ##{id}"
+msgstr "Инициатива ##{id}"
+
+msgid "Change vote"
+msgstr "Изменить голос"
+
+msgid "Change notification settings"
+msgstr "Изменить установки уведомлений"
+
+msgid "Show diff"
+msgstr "Показать изменения"
+
+msgid "This name is really too short!"
+msgstr "Это Полное имя действительно очень короткое!"
+
+msgid "Your support has been added to this initiative"
+msgstr "Ваша поддержка была добавлена для данной Инициативы"
+
+msgid "Member successfully registered"
+msgstr "Пользователь зарегистрирован"
+
+msgid "Member has been removed from your contacts"
+msgstr "Пользователь был удален из ваших контактов"
+
+msgid "Everything"
+msgstr "Всё"
+
+msgid "Invited"
+msgstr "Приглашены"
+
+msgid "Issue finished"
+msgstr "Вопрос закрыт"
+
+msgid "Issue quorum"
+msgstr "Кворум по Вопросу"
+
+msgid "I like to receive notifications by email about events in my areas and issues:"
+msgstr "Я хочу получать следующие уведомления по E-Mail (только по моим Темам и Вопросам):"
+
+msgid "Invite code"
+msgstr "Код приглашения"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Password (repeat)"
+msgstr "Пароль (повтор)"
+
+msgid "You have to mark 'Are you sure' to revoke!"
+msgstr "Вы должны отметить поле 'Вы уверены?' для того чтобы отозвать!"
+
+msgid "Search for members"
+msgstr "Искать пользователя"
+
+msgid "Search term (only complete words)"
+msgstr "Термин(ы) для поиска (только полные слова)"
+
+msgid "#{policy_name} ##{issue_id}"
+msgstr "#{policy_name} №#{issue_id}"
+
+msgid "not implemented"
+msgstr "не учтенное"
+
+msgid "Apply unit or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"
+msgstr "Применить делегирование Сообщества / Темы для этого Вопроса (Сейчас: #{delegate_name} [#{scope}])"
+
+msgid "Download documents"
+msgstr "Скачать документы"
+
+msgid "Manage timeline filters"
+msgstr "Управление временными фильтрами"
+
+msgid "LiquidFeedback"
+msgstr "LiquidFeedback"
+
+msgid "API key has been created"
+msgstr "API-Ключ создан"
+
+msgid "API keys"
+msgstr "API-Ключи"
+
+msgid "Traditional wiki syntax"
+msgstr "Традиционный Wiki-Синтакс"
+
+msgid "Saved as contact"
+msgstr "Сохранен как контактакт"
+
+msgid "delegates to"
+msgstr "делегировано "
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Choose initiator"
+msgstr "Выбрать инициатора"
+
+msgid "Change email"
+msgstr "Емейл изменить"
+
+msgid "Invitation has been refused"
+msgstr "Приглашение было отозвано"
+
+msgid "#{interested_issues_to_vote_count} issue(s) you are interested in"
+msgstr "#{interested_issues_to_vote_count} Вопросов, которые Вас интересуют"
+
+msgid "Delegate unit"
+msgstr "Делегировать голос в Сообществе"
+
+msgid "No notifications at all"
+msgstr "Никакие"
+
+msgid "Issues:"
+msgstr "Вопросы:"
+
+msgid "No changes to your images were made"
+msgstr "Картинки не были изменены"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "Search results for: '#{search}'"
+msgstr "Результаты поиска для: '#{search}'"
+
+msgid "change discussion URL"
+msgstr "Изменить URL дискуссии"
+
+msgid "The code you've entered is invalid"
+msgstr "Код неверен!"
+
+msgid "Canceled (no initiative admitted)"
+msgstr "Отменена (ни одна инициатива не допущена)"
+
+msgid "Search context"
+msgstr "Контекст поиска"
+
+msgid "Currently required"
+msgstr "Сейчас необходимы (участники)"
+
+msgid "We couldn't deliver a confirmation mail to this address. Please check entered email address."
+msgstr "Мы не смогли доставить письмо с подтверждением по данному E-Mail адресу. Пожалуйста, проверьте указаный E-Mail"
+
+msgid "Disapproval [single entry]"
+msgstr "Неодобрение"
+
+msgid "No multistage majority"
+msgstr "Никакого многоуровневого большинства"
+
+msgid "Suggestions"
+msgstr "Предложения"
+
+msgid "You are currently not invited to any initiative."
+msgstr "Вы не приглашены ни на одну из Инициатив."
+
+msgid "Unit: '#{name}'"
+msgstr "Сообщество: '#{name}'"
+
+msgid "This initiative has been revoked at #{revoked}"
+msgstr "Эта инициатива была #{revoked} отозвана"
+
+msgid "Your request has been processed."
+msgstr "Ваш запрос был обработан."
+
+msgid "Approval (third preference) [many entries]"
+msgstr "Одобрение (третее предпочтение)"
+
+msgid "Issue delegation"
+msgstr "Делегация Вопроса"
+
+msgid "You are interested"
+msgstr "Вы заинтересованы"
+
+msgid "On that page please enter the confirmation code:\n\n"
+msgstr "На этой странице введите код подтверждения:\n\n"
+
+msgid "Wiki engine for statement"
+msgstr "Wiki синтакс"
+
+msgid "Change your screen name"
+msgstr "Изменить ваш ник"
+
+msgid "Change area delegation"
+msgstr "Изменить делегирование для Темы"
+
+msgid "must not"
+msgstr "не должно быть"
+
+msgid "deactivated"
+msgstr "деактивирован"
+
+msgid "If this link is not working, please open following url in your web browser:\n\n"
+msgstr "Если линк не работает, откройте следующий URL адрес в вашем веб браузере:\n\n"
+
+msgid "Confirmed address"
+msgstr "Подтверждённый E-mail"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Approval (#th preference) [single entry]"
+msgstr "Одобрение (#.-предпочтение)"
+
+msgid "You are already not supporting this initiative"
+msgstr "Вы уже не поддерживаете данную Инициативу"
+
+msgid "You already voted this issue"
+msgstr "Вы уже голосовали по данному вопросу"
+
+msgid "Approval [many entries]"
+msgstr "Одобрены"
+
+msgid "Global delegation"
+msgstr "Глобальное делегирование"
+
+msgid "Strict direct majority"
+msgstr "Строгое прямое большинство"
+
+msgid "Latest events"
+msgstr "Последние события"
+
+msgid "You have voting privileges for this unit"
+msgstr "У вас есть право голоса в этом Сообществе"
+
+msgid "Suggestion for initiative: '#{name}'"
+msgstr "Предложение к инициативе '#{name}'"
+
+msgid "abandoned"
+msgstr "приостановлен(а/о)"
+
+msgid "Discussion with initiators"
+msgstr "Дискуссия с инициаторами"
+
+msgid "(new window)"
+msgstr "(новое окно)"
+
+msgid "neutral"
+msgstr "нейтрально"
+
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+msgid "Hide active units"
+msgstr "Скрыть активные Сообщества"
+
+msgid "Indirect majority denumerator"
+msgstr "Знаменатель непрямого большенства"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Logout successful"
+msgstr "Выход завершен"
+
+msgid "Half frozen at"
+msgstr "В сверке с"
+
+msgid "Terms of use"
+msgstr "Условия пользования"
+
+msgid "Indirect majority positive"
+msgstr "Непрямое большенство позитивно"
+
+msgid "#{count} days ago"
+msgstr "#{count} дня назад"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "#{count} in verification"
+msgstr "#{count} в сверке"
+
+msgid "Help for: #{text}"
+msgstr "Помощь для: #{text}"
+
+msgid "Compare"
+msgstr "Сравнить"
+
+msgid "New initiative draft"
+msgstr "Новый вариант инициативы"
+
+msgid "Index"
+msgstr "Номер позиции"
+
+msgid "Only for issues reaching the discussion phase"
+msgstr "Только по вопросам в фазе Дискуссия."
+
+msgid "You are invited to #{count} initiative(s)"
+msgstr "Вы приглашены стать инициатором в #{count} инициативе(ах)"
+
+msgid "You were interested"
+msgstr "Вы были заинтересованы"
+
+msgid "New issue"
+msgstr "Новый Вопрос"
+
+msgid "Create / edit area"
+msgstr "Создать / редактировать Тему"
+
+msgid "Hello,\n\n"
+msgstr "Здравствуйте,\n\n"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "area"
+msgstr "Тема"
+
+msgid "Select language"
+msgstr "Выбрать язык"
+
+msgid "New draft"
+msgstr "Новый вариант"
+
+msgid "Issue events"
+msgstr "События по Вопросу"
+
+msgid "#{number} Image(s) has been updated"
+msgstr "#{number} картина(ок) было актуализировано"
+
+msgid "the following login is connected to this email address:\n\n"
+msgstr "следующее Имя пользователя связано с данным E-Mail адресом:\n\n"
+
+msgid "Suggestion"
+msgstr "Предложение"
+
+msgid "New draft has been added to initiative"
+msgstr "Новый вариант был добавлен к инициативе"
+
+msgid "Invalid query"
+msgstr "Неверный запрос"
+
+msgid "last 24 hours"
+msgstr "последние 24 часа"
+
+msgid "day [interval]"
+msgstr "день (дня)"
+
+msgid "Issue quorum denumerator"
+msgstr "Знаменатель кворума Вопроса"
+
+msgid "You are potential supporter of this initiative via delegation"
+msgstr "Вы условный сторонник этой инициативы благодаря делегированию"
+
+msgid "Refresh support to current draft"
+msgstr "Обновить поддержу на текущую версию"
+
+msgid "Settings"
+msgstr "Установки"
+
+msgid "login name"
+msgstr "Пользователь"
+
+msgid "without"
+msgstr "без"
+
+msgid "Login-Name: "
+msgstr "Имя входа: "
+
+msgid "Canceled (before accepted due to revocation)"
+msgstr "Отменена (на начальной стадии, в следствие отзыва)"
+
+msgid "Initiative is revoked now"
+msgstr "Инициатива сейчас отозвана"
+
+msgid "No more events available"
+msgstr "Событий нет"
+
+msgid "Updated drafts"
+msgstr "Новые варианты"
+
+msgid "Please choose two different versions of the draft to compare"
+msgstr "Выберите, пожалуйста, две различные версии черновика для сравнения."
+
+msgid "Birthday"
+msgstr "День рождения"
+
+msgid "Not voted issues"
+msgstr "Не проголосованные Вопросы"
+
+msgid "Discussion URL"
+msgstr "URL адрес дискуссии"
+
+msgid "Current trustee"
+msgstr "Актуальное Доверенное Лицо"
+
+msgid "Issue finished without voting"
+msgstr "Вопрос закрыт без голосования"
+
+msgid "Please choose a name, i.e. your real name or your nick name. This name will be shown to others to identify you."
+msgstr "Введите, пожалуйста Ваше полное имя или псевдоним. Это имя будет использоваться для Вашей идентификации другими пользователями."
+
+msgid "Please select your preferred notification level"
+msgstr "Выберите, пожалуйста, предпочитаемый уровень уведомлений"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Please choose a member"
+msgstr "Выберите пользователя"
+
+msgid "This service is provided by:"
+msgstr "Этот сервис предоставлен:"
+
+msgid "activated"
+msgstr "активирован"
+
+msgid "+ #{weight}"
+msgstr "+ #{weight}"
+
+msgid "should not"
+msgstr "не желательно"
+
+msgid "should"
+msgstr "желательно"
+
+msgid "This member is potential supporter of this initiative"
+msgstr "Этот пользователь условный сторонник этой инициативы"
+
+msgid "Unconfirmed address"
+msgstr "Не подтвержденный E-Mail адрес"
+
+msgid "Vote now"
+msgstr "Голосовать сейчас"
+
+msgid "Closed"
+msgstr "закрыто"
+
+msgid "New passwords is too short."
+msgstr "Новый пароль сильно короткий"
+
+msgid "Please enter the invite code you've received."
+msgstr "Введите код приглашения, который вы получили."
+
+msgid "On that page please enter the reset code:\n\n"
+msgstr "На этой странице введите код переустановки:\n\n"
+
+msgid "Add new suggestion"
+msgstr "Добавить новое предложение"
+
+msgid "Etherpad authentication failed"
+msgstr "Ошибка Etherpad - аутентификации"
+
+msgid "Update voting comment"
+msgstr "Обновить коментарии к голосованию"
+
+msgid "Interval format:"
+msgstr "Формат интервала"
+
+msgid "Issue frozen"
+msgstr "Вопрос на сверке"
+
+msgid "Open issues"
+msgstr "Открытые Вопросы"
+
+msgid "Member"
+msgstr "Пользователь"
+
+msgid "Initiators"
+msgstr "Инициаторы"
+
+msgid "You are now initiator of this initiative"
+msgstr "Теперь Вы Инициатор в данной Инициативе"
+
+msgid "This member is inactive"
+msgstr "Пользователь деактивирован"
+
+msgid "Commit suggestion"
+msgstr "Сохранить предложение"
+
+msgid "This issue has been canceled by administrative intervention."
+msgstr "Этот вопрос был снят администратором."
+
+msgid "Disapproval (prefer to lower block) [many entries]"
+msgstr "Неодобрение (однако предпочтение следующему блоку)"
+
+msgid "Email confirmation request"
+msgstr "Подтверждение вашего E-Mail адреса"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "more unsatisfied"
+msgstr "очень недовольный"
+
+msgid "All of them"
+msgstr "Все"
+
+msgid "Initiative quorum"
+msgstr "Кворум по Инициативе"
+
+msgid "#{interval_text} [interval]"
+msgstr "#{interval_text}"
+
+msgid "Back to initiative"
+msgstr "Вернуться к инициативе"
+
+msgid "Create new policy"
+msgstr "Создать новое Правило"
+
+msgid "Apply global or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"
+msgstr "Применить глобальное делегирование или делигирование Темы для этого вопроса (Сейчас: #{delegate_name} [#{scope}])"
+
+msgid "[not displayed public]"
+msgstr "[не показывать публике]"
+
+msgid "Forgot login name?"
+msgstr "Забыли login имя?"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Suggestion does not exist anymore"
+msgstr "Предложение больше не существует"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Polling mode"
+msgstr "Режим опроса"
+
+msgid "This login is too short!"
+msgstr "Данное имя Пользователя (login) очень короткое!"
+
+msgid "Empty help text: #{id}.#{lang}.txt"
+msgstr "Пустой текст помощи: #{id}.#{lang}.txt"
+
+msgid "Default Policy"
+msgstr "Стандартное Правило голосования"
+
+msgid "The drafts do not differ"
+msgstr "Варианты не отличаются друг от друга"
+
+msgid "This screen name is too short!"
+msgstr "Это отображаемое имя очень короткое!"
+
+msgid "Unit delegation"
+msgstr "Делегирование Сообществу"
+
+msgid "Not approved"
+msgstr "Не одобрены"
+
+msgid "Set delegation for Area '#{name}'"
+msgstr "Установить делегирование для Темы '#{name}'"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "You are invited to become initiator of this initiative."
+msgstr "Вы приглашены стать инициатором этой инициативы."
+
+msgid "Global search"
+msgstr "Глобальный поиск"
+
+msgid "#{name}\n\n"
+msgstr "#{name}\n\n"
+
+msgid "Ignore Areas"
+msgstr "Игнорировать Темы"
+
+msgid "Disapproval (prefer to lower block) [single entry]"
+msgstr "Неодобрение (однако предпочтение следующему блоку)"
+
+msgid "Set delegation for Issue ##{number} in Area '#{area_name}'"
+msgstr "Установить делегирование для Вопроса ##{number} из Темы '#{area_name}' "
+
+msgid "Member has not approved latest draft"
+msgstr "Пользователь еще не принял последний вариант"
+
+msgid "Do not vote directly"
+msgstr "Не голосовать напрямую"
+
+msgid "Suggestion ##{id}"
+msgstr "Предложение ##{id}"
+
+msgid "Voting starts soon"
+msgstr "Голосование скоро начнется"
+
+msgid "no reverse beat path to status quo (including ties)"
+msgstr "Нет возврата к Статус Кво (включая связи)"
+
+msgid "This issue has been canceled."
+msgstr "Этот вопрос был снят"
+
+msgid "Stop ignoring member"
+msgstr "Пользователя больше не игнорировать"
+
+msgid "Delete filter"
+msgstr "Удалить фильтр"
+
+msgid "Delegation abandoned"
+msgstr "Делегирование отменено"
+
+msgid "Invalid login name or password!"
+msgstr "Login имя или пароль не верны"
+
+msgid "One more area in this unit"
+msgstr "Другие Темы в этом Сообществе"
+
+msgid "You were supporter"
+msgstr "Вы сторонник"
+
+msgid "This initiative has not been admitted! It failed the quorum of #{quorum}."
+msgstr "Эта инициатива не была допушена. Она не набрала кворум #{quorum}."
+
+msgid "Images"
+msgstr "Картинки"
+
+msgid "possibly instable result caused by multistage majority"
+msgstr "Возможен нестабильный результат из-за многоуровневого большинства"
+
+msgid "All issues"
+msgstr "Все Вопросы"
+
+msgid "Change email address"
+msgstr "Емейл изменить"
+
+msgid "Syntax help"
+msgstr "Помощь по синтаксису"
+
+msgid "This initiative is revoked"
+msgstr "Эта Инициатива отозвана"
+
+msgid "Set new password"
+msgstr "Задать новый пароль"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "Opinions"
+msgstr "Мнения"
+
+msgid "Unit '#{name}'"
+msgstr "Сообщество '#{name}'"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Policy '#{name}'"
+msgstr "Правило голосования '#{name}'"
+
+msgid "Free timing"
+msgstr "Свободный тайминг"
+
+msgid "Approval (#th preference) [many entries]"
+msgstr "Одобрение (#.-предпочтение)"
+
+msgid "Locked?"
+msgstr "Заблокирован?"
+
+msgid "Your rating has been updated"
+msgstr "Ваш рейтинг был обновлен"
+
+msgid "Date format is not valid. Please use following format: YYYY-MM-DD"
+msgstr "Формат даты не верен. Используйте: ГГГГ-ММ-ДД, например 1945-05-23"
+
+msgid "This invite key is connected with the following information:"
+msgstr "Этот код приглашение связан со следующей информацией:"
+
+msgid "Delegate area"
+msgstr "Делегировать голос в Теме"
+
+msgid "Finish delegation check"
+msgstr "Завершить проверку делегирования"
+
+msgid "Ignore member"
+msgstr "Игнорировать пользователя"
+
+msgid "Remove initiator from initiative"
+msgstr "Удалить инициатора из инициативы"
+
+msgid "Invite initiator"
+msgstr "Пригласить инициатора"
+
+msgid "Member name"
+msgstr "Имя пользователя"
+
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+msgid "You were potential supporter"
+msgstr "Вы условный сторонник"
+
+msgid "Your suggestion has been added"
+msgstr "Ваше предложение было добавлено"
+
+msgid "This member is potential supporter of this initiative via delegation"
+msgstr "Этот пользователь условный сторонник этой инициативы благодаря делегированию"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "without winner"
+msgstr "Без победителя"
+
+msgid "Eligible as winner"
+msgstr "Как победитель квалифицирован"
+
+msgid "This login is already taken, please choose another one!"
+msgstr "Данное имя Пользователя (login) уже используется, выберите другое имя Пользователя!"
+
+msgid "Issue quorum numerator"
+msgstr "Числитель кворума Вопроса"
+
+msgid "#{count} in voting"
+msgstr "#{count} в голосовании"
+
+msgid "Wiki engine"
+msgstr "Wiki редактор"
+
+msgid "Canceled by administrative intervention"
+msgstr "Отменена администратором"
+
+msgid "Registration (step 1 of 3: Invite code)"
+msgstr "Регистрация (Шаг 1 из 3: Код приглашения)"
+
+msgid "Rejected"
+msgstr "Отказано"
+
+msgid "Confirmation code"
+msgstr "Код подтверждения"
+
+msgid "Please confirm your email address"
+msgstr "Подтвердите ваш E-Mail"
+
+msgid "Issue accepted"
+msgstr "Вопрос принят"
+
+msgid "Initiative quorum numerator"
+msgstr "Числитель кворума инициативы"
+
+msgid "Show help text"
+msgstr "Показать текст помощи"
+
+msgid "Your password has been updated successfully"
+msgstr "Ваш пароль был успешно обновлен"
+
+msgid "Yesterday at #{time}"
+msgstr "Вчера в #{time}"
+
+msgid "No default"
+msgstr "Без стандарта"
+
+msgid "New suggestion"
+msgstr "Новое предложение"
+
+msgid "Preview"
+msgstr "Просмотр"
+
+msgid "Trustee"
+msgstr "Доверенное лицо"
+
+msgid "You are not participating in the only area of the unit"
+msgstr "Вы не участвуете только в одной Теме этого Сообщества"
+
+msgid "You are interested in this issue"
+msgstr "Вас интересует этот Вопрос"
+
+msgid "Potential supporters (before begin of voting)"
+msgstr "Условные сторонники (к началу голосования)"
+
+msgid "Request password reset link"
+msgstr "Запросить линк для переустановки пароля"
+
+msgid "No potential supporters"
+msgstr "Нет условных сторонников"
+
+msgid "Save timeline filters"
+msgstr "Сохранить временной фильтр"
+
+msgid "Please choose a policy"
+msgstr "Выбирите Правило голосования"
+
+msgid "Remove initiator"
+msgstr "Удалить инициатора"
+
+msgid "Direct majority numerator"
+msgstr "Числитель прямого большинства"
+
+msgid "All areas"
+msgstr "Все Темы"
+
+msgid "satisfied"
+msgstr "удовлетворен"
+
+msgid "Activate account"
+msgstr "Активировать пользователя"
+
+msgid "month [interval time left]"
+msgstr "Месяц"
+
+msgid "Your name has been changed"
+msgstr "Ваше Полное Имя было изменено"
+
+msgid "Disapproval (prefer to lower blocks) [many entries]"
+msgstr "Неодобрение (однако предпочтение следующим блокам)"
+
+msgid "All units"
+msgstr "Все Сообщества"
+
+msgid "Sorry, but you are currently not invited"
+msgstr "Извините, но Вы сейчас не приглашены"
+
+msgid "New initiative"
+msgstr "Новая инициатива"
+
+msgid "Statement"
+msgstr "Утверждение"
+
+msgid "#{interval_text} left"
+msgstr "еще #{interval_text}"
+
+msgid "You are potential supporter of this initiative"
+msgstr "Вы условный сторонник этой инициативы"
+
+msgid "Any state"
+msgstr "Все состояния"
+
+msgid "Revoke initiative"
+msgstr "Отозвать Инициативу"
+
+msgid "Please choose a login name. This name will not be shown to others and is used only by you to login into the system. The login name is case sensitive."
+msgstr "Пожалуйста укажите имя Пользователя(login). Это имя не будет отображаться другим пользователям и будет использовано только для входа в систему. Имя Пользователя чувствительно к регистру символов."
+
+msgid "My areas"
+msgstr "Мои Темы"
+
+msgid "Use terms"
+msgstr "Условия пользования"
+
+msgid "No reverse beat path"
+msgstr "Никакого реверсного beat path"
+
+msgid "Registration (step 3 of 3: Terms of use and password)"
+msgstr "Регистрация (Шаг 3 из 3: Условия пользования и пароль)"
+
+msgid "Generate API key"
+msgstr "Сгенерировать API-Ключ"
+
+msgid "Passwords must consist of at least 8 characters!"
+msgstr "Пароль должен состоять минимум из 8ми символов!"
+
+msgid "You didn't confirm your email address '#{email}' within 7 days."
+msgstr "Вы не подтвердили E-Mail '#{email}' в течении 7ми дней."
+
+msgid "Apply unit delegation for this area (Currently: #{delegate_name} [#{scope}])"
+msgstr "Применить делегирование Сообщества для этой Темы (Сейчас: #{delegate_name} [#{scope}])"
+
+msgid "Reset code is invalid!"
+msgstr "Неверный код сброса"
+
+msgid "Admin menu"
+msgstr "Меню администратора"
+
+msgid "Admitted"
+msgstr "допущен"
+
+msgid "Closed user group, please login to participate."
+msgstr "Закрытая группа. Зарегистрируйтесь что бы участвовать"
+
+msgid "global"
+msgstr "Global"
+
+msgid "Initiative"
+msgstr "Инициатива"
+
+msgid "Sorry, you have reached your personal flood limit. Please be slower..."
+msgstr "Извините, но Вы привысили лимит на отправку сообщений. Пожалуйста будьте чуть помедленнее..."
+
+msgid "Potential supporters"
+msgstr "Условные сторонники"
+
+msgid "Only for issues reaching the voting phase"
+msgstr "Только по вопросам в фазе  Голосование."
+
+msgid "Photo"
+msgstr "Фото"
+
+msgid "You didn't save any member as contact yet."
+msgstr "Вы не сохранили в своих контактах ни одного Пользователя!"
+
+msgid "Event #{id} -> #{num} members"
+msgstr "Событие  #{id} -> #{num} участников"
+
+msgid "unit"
+msgstr "Сообщество"
+
+msgid "Back to timeline"
+msgstr "Вернутьсяк графику"
+
+msgid "[No voting privilege]"
+msgstr "[Без права голоса]"
+
+msgid "Your page has been updated"
+msgstr "Ваша страница актуализирована"
+
+msgid "Member successfully updated"
+msgstr "Пользователь актуализирован"
+
+msgid "Open"
+msgstr "Открытые"
+
+msgid "Initiative successfully updated"
+msgstr "Инициатива успешно актуализирована"
+
+msgid "Suggestion currently not implemented"
+msgstr "Предложение сейчас не учтено"
+
+msgid "Add my interest"
+msgstr "Заявить свой интерес"
+
+msgid "Support this initiative"
+msgstr "Поддержать эту инициативу"
+
+msgid "and one more initiative"
+msgstr "и еще одна инициатива"
+
+msgid "Discussion started"
+msgstr "Дискуссия открыта"
+
+msgid "Z-A"
+msgstr "Я-А"
+
+msgid "Upload avatar/photo"
+msgstr "Avatar/Foto загрузить"
+
+msgid "Create / edit policy"
+msgstr "Правила голосования создать/редактировать"
+
+msgid "Please enter your email address. This address will be used for automatic notifications (if you request them) and in case you've lost your password. This address will not be published. After registration you will receive an email with a confirmation link."
+msgstr "Пожалуйста, введите ваш E-mail адрес. Данный адрес будет использоваться для отправки автоматических уведомлений(по вашему желанию) и для сброса пароля. Этот адрес не публикуется. На указанный адрес будет оправлена ссылка для подтверждения регистрации"
+
+msgid "Error while updating member, database reported:<br /><br /> (#{errormessage})"
+msgstr "Ошибка при актуализировании, текст ошибки базы данных :<br /><br /> (#{errormessage})"
+
+msgid "My opinion"
+msgstr "Мое мнение ... учтено"
+
+msgid "Help #{id}"
+msgstr "Помощь #{id}"
+
+msgid "Diff"
+msgstr "Разница"
+
+msgid "Confirmation code invalid!"
+msgstr "Неправильный код подтверждения!"
+
+msgid "Member name history for '#{name}'"
+msgstr "История имен для '#{name}'"
+
+msgid "Search issues"
+msgstr "Поиск Вопросов"
+
+msgid "Created at"
+msgstr "Создан"
+
+msgid "You are member"
+msgstr "Вы пользователь"
+
+msgid "Notification address unconfirmed"
+msgstr "E-Mail для уведомлений не подтвержденt"
+
+msgid "#{count} new"
+msgstr "#{count} новых"
+
+msgid "Current status"
+msgstr "Актуальный статус"
+
+msgid "Trustee has no voting right in this unit"
+msgstr "Доверенное лицо не имеет права голоса в этом Сообществе"
+
+msgid "Set URL"
+msgstr "Указать URL"
+
+msgid "Search initiatives"
+msgstr "Поиск инициатив"
+
+msgid "Create alternative initiative"
+msgstr "Создать альтенативную инициативу"
+
+msgid "Initiative successfully created"
+msgstr "Инициатива успешно создана"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Cancel issue"
+msgstr "Снять Вопрос"
+
+msgid "Please enter the email reset code you have received:"
+msgstr "Введите ресет код, который вы получили:"
+
+msgid "Add new unit"
+msgstr "Добавить новое Сообщество"
+
+msgid "Posts"
+msgstr "Должности"
+
+msgid "Title of initiative"
+msgstr "Название инициативы"
+
+msgid "Member menu"
+msgstr "Меню пользователя"
+
+msgid "No admission needed"
+msgstr "Допуск не нужен"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "All areas in my units"
+msgstr "Все Темы в моих Сообществах"
+
+msgid "Member has been removed from initiators"
+msgstr "Пользователь был удален из списка инициаторов"
+
+msgid "disabled"
+msgstr "отключено"
+
+msgid "You can change your email address only once per hour. Please try again later."
+msgstr "Вы можете поменять Ваш E-Mail адрес только один раз в час. Пожалуйста, повторите позже."
+
+msgid "Policies"
+msgstr "Правила голосования"
+
+msgid "Approval (second preference) [many entries]"
+msgstr "Одобрение (второе предпочтение)"
+
+msgid "Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"
+msgstr "Применить глобальное делегирование для этой Темы (Сейчас: #{delegate_name} [#{scope}])"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Withdraw"
+msgstr "Отозвать"
+
+msgid "Suggested initiative"
+msgstr "Предложеные Инициативы"
+
+msgid "Standard policies"
+msgstr "Стандартные Правила голосования"
+
+msgid "Initiative i#{id}: #{name}"
+msgstr "Инициатива i#{id}: #{name}"
+
+msgid "Email address too short!"
+msgstr "E-Mail адрес сильно короткий!"
+
+msgid "Current name"
+msgstr "Актуальное имя"
+
+msgid "Supporters (before begin of voting)"
+msgstr "Сторонники (к началу голосования)"
+
+msgid "Initiatives that invited you to become initiator:"
+msgstr "Инициативы по которым вы приглашены стать инициатором:"
+
+msgid "You are initiator of this initiative"
+msgstr "Вы являетесь инициатором данной Инициативы"
+
+msgid "You've successfully registered and you can login now with your login and password!"
+msgstr "Вы успешно зарегистрированы и  можете войти на сайт под своим логином и паролем"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "Hello "
+msgstr "Здравствуйте "
+
+msgid "Verification started"
+msgstr "Сверка началась"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Your login has been changed to '#{login}'"
+msgstr "Ваше имя пользователя было изменено на '#{login}'"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "prohibit potentially instable results caused by multistage majorities"
+msgstr "Исключить нестабильный результат из-за многоуровневого большинства"
+
+msgid "Password reset request"
+msgstr "Пароль переустановить"
+
+msgid "This issue is already closed."
+msgstr "Данный Вопрос уже закрыт."
+
+msgid "years [interval time left]"
+msgstr "лет"
+
+msgid "This member is initiator of this initiative"
+msgstr "Этот Пользователь является Инициатором данной Инициативы"
+
+msgid "This member is supporter of this initiative"
+msgstr "Этот пользователь сторонник этой инициативы"
+
+msgid "Register new member"
+msgstr "Зарегистрировать нового пользователя"
+
+msgid "Move down"
+msgstr "Передвинуть вниз"
+
+msgid "Ballot of '#{member_name}' for issue ##{issue_id}"
+msgstr "Голосов из '#{member_name}' для Вопроса ##{issue_id}"
+
+msgid "This member is participating, the rest of delegation chain is suspended while discussing"
+msgstr "Этот пользователь сам принимает участие, поэтому делегирование приостановлено на время дискуссии."
+
+msgid "Closed issues"
+msgstr "Закрытые Вопросы"
+
+msgid "Direct majority non negative"
+msgstr "Прямое большинство не негативно"
+
+msgid "reverse beat path to status quo (including ties)"
+msgstr "обратный путь ведет к Статус Кво (включая связи)"
+
+msgid "unit / area"
+msgstr "Сообщество / Тема"
+
+msgid "days [interval ago]"
+msgstr "дней (дня)"
+
+msgid "Show policies in use"
+msgstr "Показать используемые Правила"
+
+msgid "Collective opinion of supporters"
+msgstr "Обобщенное мнение сторонников"
+
+msgid "Delegation turned off for issue"
+msgstr "Делегирование отменено для Вопроса"
+
+msgid "Can't send confirmation email"
+msgstr "E-mail подтверждение не может быть отослано."
+
+msgid "Can't remove last initiator"
+msgstr "Последний инициатор не может быть удалён"
+
+msgid "Initiative: "
+msgstr "Инициатива: "
+
+msgid "Population"
+msgstr "Общее число участников"
+
+msgid "You are invited to LiquidFeedback. To register please click the following link:\n\n"
+msgstr "Вы приглашены в LiquidFeedback. Используйте этот линк для регистрации:\n\n"
+
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+msgid "Move up"
+msgstr "Передвинуть наверх"
+
+msgid "You are currently not supporting this initiative directly. By adding suggestions to this initiative you will automatically become a potential supporter."
+msgstr "Вы сейчас не сторонник этой инициативы. Добавив свое предложение вы станете автоматически условным сторонником!"
+
+msgid "Member is already saved in your contacts!"
+msgstr "Пользователь уже находится в ваших Контактах!"
+
+msgid "Number of incoming delegations, follow link to see more details"
+msgstr "Число входящих делегирований. Используйте линк для дополнительной информации"
+
+msgid "Approval (first preference) [single entry]"
+msgstr "Одобрение (первое предпочтение)"
+
+msgid "[event mail] Area: #{name}"
+msgstr "Тема: #{name}"
+
+msgid "#{count} canceled"
+msgstr "#{count} отменены"
+
+msgid "Download"
+msgstr "Скачивание"
+
+msgid "year [interval]"
+msgstr "год"
+
+msgid "Initiative events"
+msgstr "События инициативы"
+
+msgid "Abandon global delegation for this area"
+msgstr "Приостановка глобального делегирования для этой Темы"
+
+msgid "Check delegations"
+msgstr "Проверить делегирования"
+
+msgid "This issue is already frozen."
+msgstr "Данный Вопрос уже в сверке"
+
+msgid "Verification starts soon"
+msgstr "Фаза сверки скоро начнется"
+
+msgid "No suggestions yet"
+msgstr "Еще нет никаких предложений"
+
+msgid "Initiated"
+msgstr "Инициированы"
+
+msgid "New passwords does not match."
+msgstr "Пароли не совпадают"
+
+msgid "Delegate issue"
+msgstr "Делегировать голос по Вопросу"
+
+msgid "Download database export"
+msgstr "Скачать экспорт базы данных"
+
+msgid "Change order"
+msgstr "Изменить пароль"
+
+msgid "Discard voting"
+msgstr "Отказаться от голосования"
+
+msgid "Choose member"
+msgstr "Выбрать пользователя"
+
+msgid "Interest removed"
+msgstr "Интерес удалён"
+
+msgid "xmpp"
+msgstr "Jabber (XMPP)"
+
+msgid "Home"
+msgstr "Домашняя страница"
+
+msgid "Members"
+msgstr "Пользователи"
+
+msgid "Developer settings"
+msgstr "Установки для разработчиков"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Member is now invited to be initiator"
+msgstr "Пользователь приглашен как инициатор"
+
+msgid "Notification email"
+msgstr "E-Mail для уведомлений"
+
+msgid "Not approved (rank #{rank})"
+msgstr "Не одобрены (ранг #{rank})"
+
+msgid "No suggestions"
+msgstr "Никаких предложений"
+
+msgid "[Registered members only]"
+msgstr "[Только зарегистрированные пользователи]"
+
+msgid "Notification level not set yet"
+msgstr "Уровень уведомлений еще не установлен"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Units"
+msgstr "Сообщества"
+
+msgid "Information about the available policies"
+msgstr "Информация о доступных Правилах голосования"
+
+msgid "Show profile"
+msgstr "Показать профиль"
+
+msgid "Open initiatives you are supporting which has been updated their draft:"
+msgstr "Открытые, вами поддерживыемые инициативы, чьи тексты были актуализированы:"
+
+msgid "Show member history"
+msgstr "Показать историю пользователя"
+
+msgid "Not a member"
+msgstr "Не пользователь"
+
+msgid "Member '#{member}'"
+msgstr "Пользователь '#{member}'"
+
+msgid "Create new area"
+msgstr "Создать новую Тему "
+
+msgid "Admin"
+msgstr "Администрация"
+
+msgid "Cancel refuse of invitation"
+msgstr "Изменить отказ от приглашения"
+
+msgid "Canceled (during verification due to revocation)"
+msgstr "Отменена (во время сверки, в следствие отзыва)"
+
+msgid "This initiative"
+msgstr "Эта инициатива"
+
+msgid "Issue canceled"
+msgstr "Вопрос снят"
+
+msgid "Withdraw membership"
+msgstr "Отозвать членство"
+
+msgid "day [interval time left]"
+msgstr "день (дня)"
+
+msgid "A-Z"
+msgstr "А-Я"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "This member has rejected to become initiator of this initiative"
+msgstr "Данный Пользователь отказался от приглашения стать Со-инициатором этой Инициативы"
+
+msgid "Area '#{name}'"
+msgstr "Тема '#{name}'"
+
+msgid "This member is already invited to become initiator of this initiative"
+msgstr "Этот Пользователь уже приглашен быть Со-инициатором данной Инициативы"
+
+msgid "Resend activation email to '#{email}'"
+msgstr "Повторно отправить письмо с ссылкой для подтверждения регистрации на E-Mail '#{email}'"
+
+msgid "Issue ##{id}"
+msgstr "Вопрос ##{id}"
+
+msgid "Interested"
+msgstr "Заинтересованы"
+
+msgid "Login name"
+msgstr "Имя входа"
+
+msgid "Set unit delegation"
+msgstr "Установить делегирование для Сообщества"
+
+msgid "Not accepted yet"
+msgstr "Еще не принято"
+
+msgid "The initiators suggest to support the following initiative:"
+msgstr "Инициаторы предлагают поддержать следующую инициативу:"
+
+msgid "You are supporter of this initiative via delegation"
+msgstr "Вы сторонник этой инициативы благодаря делегированию"
+
+msgid "Discussion starts soon"
+msgstr "Дискуссия нчинается вскоре"
+
+msgid "months [interval ago]"
+msgstr "Месяцев"
+
+msgid "Interest updated"
+msgstr "Интерес обновлен"
+
+msgid "#{issues_to_vote_count} issue(s)"
+msgstr "#{issues_to_vote_count} Вопрос(ов)"
+
+msgid "Change your notification email address"
+msgstr "Изменить ваш Е-mail для оповещений"
+
+msgid "#{count} of them have an area delegation set"
+msgstr "#{count} из них имеют делегирование на уровне Темы"
+
+msgid "[event mail] URL: #{url}"
+msgstr " URL: #{url}"
+
+msgid "at least #{count} approvals"
+msgstr "как минимум #{count} одобрений"
+
+msgid "Calculation"
+msgstr "Подсчет"
+
+msgid "Cancel issue now"
+msgstr "Снять Вопрос сейчас"
+
+msgid "Membership removed"
+msgstr "Регистрация удалена"
+
+msgid "Show member"
+msgstr "Показать пользователя"
+
+msgid "Stylesheet URL"
+msgstr "Stylesheet URL был актуализирован"
+
+msgid "Hide filter details"
+msgstr "Скрыть детали фильтра"
+
+msgid "Edit areas"
+msgstr "Редактировать Темы"
+
+msgid "Voting time"
+msgstr "Время на голосование"
+
+msgid "Mobile phone"
+msgstr "Мобильный телефон"
+
+msgid "Database download"
+msgstr "Скачать базу данных"
+
+msgid "not yet"
+msgstr "еще нет"
+
+msgid "Any"
+msgstr "Все"
+
+msgid "Proceed with registration"
+msgstr "Продолжить регистрацию"
+
+msgid "Abstention"
+msgstr "Воздержаться"
+
+msgid "Change your password"
+msgstr "Смените Ваш пароль"
+
+msgid "Issue"
+msgstr "Вопрос"
+
+msgid "Revoked at"
+msgstr "Отозвана"
+
+msgid "#{count} in discussion"
+msgstr "#{count} в дискуссии"
+
+msgid "Units and areas"
+msgstr "Сообщества и Темы"
+
+msgid "This service is provided using the following software components:"
+msgstr "Этот сервис предоставлен с использованием следующих программных компонент:"
+
+msgid "About site"
+msgstr "О нас"
+
+msgid "Access level"
+msgstr "Право доступа"
+
+msgid "Finished (without winner)"
+msgstr "Завершено (без победителя)"
+
+msgid "Request email with login name"
+msgstr "Выслать E-Mail с Логин именем"
+
+msgid "External posts"
+msgstr "Звания"
+
+msgid "Accept invitation"
+msgstr "Принять приглашение"
+
+msgid "So I'm"
+msgstr "Итак я"
+
+msgid "History"
+msgstr "История"
+
+msgid "Lock member?"
+msgstr "Заблокировать пользователя?"
+
+msgid "years [interval]"
+msgstr "лет"
+
+msgid "Error while converting image. Please note, that only JPG files are supported!"
+msgstr "Ошибка при конвертации картинки. Поддерживается только формат JPG."
+
+msgid "Issue ID"
+msgstr "ID Вопроса"
+
+msgid "This member is locked"
+msgstr "Пользователь заблокирован"
+
+msgid "No delegation"
+msgstr "Без делегирования"
+
+msgid "Content"
+msgstr "Содержание"
+
+msgid "Organizational unit"
+msgstr "Организация"
+
+msgid "This name is too short!"
+msgstr "Это Имя очень короткое!"
+
+msgid "I consider suggestion as"
+msgstr "Я рассматриваю предложение как"
+
+msgid "Finish voting"
+msgstr "Завершить голосование"
+
+msgid "Admission time"
+msgstr "Время на принятие к рассмотрению"
+
+msgid "Please decide for each delegation to confirm or to revoke it!"
+msgstr "Решите для каждого делегирования: подтвердить или отозвать!"
+
+msgid "Eligible voters"
+msgstr "Участники с правом голоса"
+
+msgid "implemented"
+msgstr "учтенное"
+
+msgid "Public administrative notice:"
+msgstr "Административная информация (публичная)"
+
+msgid "Show areas in use"
+msgstr "Показать используемые Темы"
+
+msgid "Current votings in areas you are member of and issues you are interested in:"
+msgstr "Актуальные голосования по интересующим Вас Тем и по интересующим Вас Вопросам:"
+
+msgid "Saved contacts"
+msgstr "Сохраненные контакты"
+
+msgid "email"
+msgstr "E-Mail"
+
+msgid "One step back"
+msgstr "Шаг назад"
+
+msgid "delegated to"
+msgstr "делегирован"
+
+msgid "Issue reached next phase"
+msgstr "Вопрос перешел в следующую фазу"
+
+msgid "days [interval time left]"
+msgstr "дней (дня)"
+
+msgid "Your support has been updated to the latest draft"
+msgstr "Ваша поддержка была обновлена до последнего варианта"
+
+msgid "Notification settings"
+msgstr "Установки уведомления"
+
+msgid "You didn't set the level of notifications you like to receive"
+msgstr "Вы не указали желаемый уровень для уведомлений, которые вы хотите получать."
+
+msgid "Admin?"
+msgstr "Администратор?"
+
+msgid "Hello\n\n"
+msgstr "Здравствуйте\n\n"
+
+msgid "Hide this help message"
+msgstr "Скрыть этот текст помощи"
+
+msgid "year [interval ago]"
+msgstr "год"
+
+msgid "Title (80 chars max)"
+msgstr "Название (max. 80 знаков)"
+
+msgid "Area"
+msgstr "Тема"
+
+msgid "Discussion time"
+msgstr "Время на дискуссию"
+
+msgid "Participate in this area"
+msgstr "Принять участие в этой Теме"
+
+msgid "My areas and issues"
+msgstr "Мои Темы и Вопросы"
+
+msgid "Direct and by delegation"
+msgstr "Напрямую и с делегированием"
+
+msgid "No supporters (before begin of voting)"
+msgstr "Без поддержки (к началу голосования)"
+
+msgid "Not voted"
+msgstr "Не проголосованы"

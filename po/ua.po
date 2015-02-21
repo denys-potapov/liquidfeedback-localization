@@ -1,0 +1,2392 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Registration"
+msgstr "Реєстрація"
+
+msgid "This issue has been canceled. It failed the quorum of #{quorum}."
+msgstr "Питання скасовано! Не досягнуто кворуму #{quorum}."
+
+msgid "You are not participating in any of the #{count} areas in this unit"
+msgstr "Ви не долучились до жодної з #{count} тем в цій Спільноті"
+
+msgid "Please enter your new password twice."
+msgstr "Будь ласка, введіть та підтвердьте Ваш пароль."
+
+msgid "Member is not participating in the only area of the unit"
+msgstr "Користувач не бере участі в жодній Темі цієї Спільноти"
+
+msgid "Policy list"
+msgstr "Список процедур"
+
+msgid "Current unit and area delegations need confirmation"
+msgstr "Поточні делегування Спільноти та Теми потребують підтвердження"
+
+msgid "Timeline"
+msgstr "Хронологія"
+
+msgid "Approved"
+msgstr "Затверджено"
+
+msgid "Logout"
+msgstr "Вихід"
+
+msgid "Repeat new password"
+msgstr "Повторіть новий пароль"
+
+msgid "One of them have an area delegation set"
+msgstr "Для одного з них встановлене делегування Теми"
+
+msgid "confirm"
+msgstr "підтвердити"
+
+msgid "Change login"
+msgstr "Змінити логін"
+
+msgid "#{policy} ##{id}"
+msgstr ""
+
+msgid "Delegations"
+msgstr "Делегування"
+
+msgid "You can't suggest the initiative you are revoking"
+msgstr "Ви не можете рекомендувати Ініціативу, яку Ви хочете видалити"
+
+msgid "Newest"
+msgstr "Найновіші"
+
+msgid "New"
+msgstr "Нові"
+
+msgid "Degree"
+msgstr "Міра"
+
+msgid "Voting comment"
+msgstr "Коментар до голосування"
+
+msgid "Create new unit"
+msgstr "Створити нову спільноту"
+
+msgid "Phases"
+msgstr "Фази"
+
+msgid "Memberships"
+msgstr "Членство"
+
+msgid "Edit my page"
+msgstr "Редагувати мою сторінку"
+
+msgid "Member is not participating in any of the #{count} areas in this unit"
+msgstr "Користувач не бере участі в жодній з #{count} Тем цієї Спільноти"
+
+msgid "Search for issues"
+msgstr "Пошук питань"
+
+msgid "month [interval time left]"
+msgstr "місяць"
+
+msgid "Discuss with initiators"
+msgstr "Дискутувати з ініціаторами"
+
+msgid "Finished"
+msgstr "Завершені"
+
+msgid "Indirect majority"
+msgstr "Непряма більшість"
+
+msgid "Please choose two versions of the draft to compare"
+msgstr "Будь ласка, виберіть дві версії проекту для порівняння."
+
+msgid "Interest not existent"
+msgstr "Інтерес не існує"
+
+msgid "Area delegation"
+msgstr "Делегування Теми"
+
+msgid "Approval (first preference) [many entries]"
+msgstr "Затвердження (перший запит) [декілька варіантів]"
+
+msgid "Unit"
+msgstr "Спільнота"
+
+msgid "You are already supporting the latest draft"
+msgstr "Ви вже підтримуєте останнє оновлення Проекту"
+
+msgid "[event mail] Issue: ##{id}"
+msgstr " Питання: ##{id}"
+
+msgid "Real name"
+msgstr "Справжнє ім'я"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "Select language \"#{langcode}\""
+msgstr "Обрати мову \"#{langcode}\""
+
+msgid "We have sent an email with activation link already in the last hour. Please try again later."
+msgstr "Протягом останньої години ми вже надсилали листа електронною поштою для активації. Будь ласка, спробуйте пізніше."
+
+msgid "This site is using"
+msgstr "Цей сайт використовує"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "i#{id}: #{name}"
+msgstr ""
+
+msgid "months [interval]"
+msgstr "місяця(ів)"
+
+msgid "Preview voting comment"
+msgstr "Переглянути коментарі голосуючих"
+
+msgid "Sorry, but there is not confirmed email address for your account. Please contact the administrator or support."
+msgstr "Вибачте, але для Вашого облікового запису немає жодної підтвердженої адреси електронної пошти. Зверніться, будь ласка, до адміністратора або у службу підтримки."
+
+msgid "Initiative revoked"
+msgstr "Ініціатива відкликана"
+
+msgid "Voted"
+msgstr "Проголосовані"
+
+msgid "You have ignored this member"
+msgstr "Ви ігноруєте цього Користувача"
+
+msgid "Current phase is already closed."
+msgstr "Нинішній етап вже завершено."
+
+msgid "Voting"
+msgstr "Голосування"
+
+msgid "Interested members"
+msgstr "Зацікавлені учасники"
+
+msgid "New drafts for #{count} initiative(s) you are supporting"
+msgstr "Загалом #{count} нових Проектів до Ініціатив Ви підтримуєте"
+
+msgid "Internal posts"
+msgstr "Внутрішнє повідомлення"
+
+msgid "[event mail] Event: #{event}"
+msgstr " Подія: #{event}"
+
+msgid "Please enter your email address. You will receive an email with your login name."
+msgstr "Будь ласка, введіть Вашу адресу електронної пошти. Ви отримаєте лист з Вашим ім’ям Користувача (login name)."
+
+msgid "#{number} Image(s) has been deleted"
+msgstr "#{number} Зображень(ня) було видалено"
+
+msgid "Invitation to LiquidFeedback"
+msgstr "Запрошення до LiquidFeedback"
+
+msgid "Invite an initiator to initiative"
+msgstr "Запросити Ініціатора до Ініціативи"
+
+msgid "Abstention [single entry]"
+msgstr "Утриматись"
+
+msgid "You have not voted #{count} issue(s) you were interested in"
+msgstr "Ви не проголосували #{count} Проектів, в яких Ви були зацікавлені"
+
+msgid "Areas"
+msgstr "Теми"
+
+msgid "Outgoing delegations"
+msgstr "Делегував"
+
+msgid "Member is participating in this area"
+msgstr "Кристувач бере участь у цій Темі"
+
+msgid "Email address is confirmed now"
+msgstr "Email адресу підтверджено"
+
+msgid "Last snapshot:"
+msgstr "Останній зріз:"
+
+msgid "You are participating in this area"
+msgstr "Ви долучені до цієї теми"
+
+msgid "Publish"
+msgstr "Опублікувати"
+
+msgid "Approval (third preference) [single entry]"
+msgstr "Затвердження (третій запит) [один варіант]"
+
+msgid "Options"
+msgstr "Налаштування"
+
+msgid "The draft of this initiative has been updated!"
+msgstr "Проект Вашої ініціативи було оновлено!"
+
+msgid "Initiator invites"
+msgstr "Запрошення ініціатора"
+
+msgid "Create new issue"
+msgstr "Створити нове питання"
+
+msgid "Disapproval (prefer to last block) [single entry]"
+msgstr "Несхвалення (перевага останньому блоку)"
+
+msgid "#{count} more areas in this unit"
+msgstr "ще #{count} галузей в цьому розділі"
+
+msgid "Set global delegation"
+msgstr "Встановити Глобальне Делегування"
+
+msgid "Source"
+msgstr "Джерело"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "You are already initiator"
+msgstr "Ви вже ініціатор"
+
+msgid "Approval (second preference) [single entry]"
+msgstr "Затвердження (другий запит) [один варіант]"
+
+msgid "Delegation turned off for area"
+msgstr "Делегування для цієї Теми вимкнено"
+
+msgid "revoke"
+msgstr "відкликати"
+
+msgid "Cancel"
+msgstr "Відміна"
+
+msgid "days [interval]"
+msgstr "днів"
+
+msgid "Show older events"
+msgstr "Показати старі події"
+
+msgid "year [interval time left]"
+msgstr "рік"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "must"
+msgstr "повинно"
+
+msgid "Voted no"
+msgstr "Проголосоване ПРОТИ"
+
+msgid "Last activity (updated daily)"
+msgstr "Остання активність"
+
+msgid "Member: '#{identification}' (#{name})"
+msgstr "Користувач: '#{identification}' (#{name})"
+
+msgid "This name is already taken, please choose another one!"
+msgstr "Таке ім'я вже використовується, будь ласка оберіть інше!"
+
+msgid "Direct majority positive"
+msgstr "Пряма більшість позитивна"
+
+msgid "Voting comment (optional)"
+msgstr "Коментарі до голосування (за бажанням)"
+
+msgid "day [interval ago]"
+msgstr "день"
+
+msgid "Become a member"
+msgstr "Стати Користувачем"
+
+msgid "Strict indirect majority"
+msgstr "Сувора непряма більшість"
+
+msgid "Your email address has been changed, please check for confirmation email with activation link!"
+msgstr "Ваша адреса електронної пошти змінилась. Будь ласка, перевірте Вашу скриньку на наявність листа з кодом активації!"
+
+msgid "No potential supporters (before begin of voting)"
+msgstr "Немає потенційних прихильників (перед голосуванням)"
+
+msgid "Membership updated"
+msgstr "Реєстрацію членства оновлено"
+
+msgid "Voted yes"
+msgstr "Проголосоване ЗА"
+
+msgid "You didn't confirm your email address '#{email}'. You have received an email with an activation link."
+msgstr "Ви не підтвердили свою імейл адресу '#{email}'. Ви мали отримати повідомлення з лінком для активації."
+
+msgid "Sorry, your contingent for creating initiatives has been used up. Please try again later."
+msgstr "Вибачте, вашу квоту по створенню ініціатив було вичерпано. Будь ласка, спробуйте ще раз пізніше!"
+
+msgid "Indirect majority non negative"
+msgstr "Непряма більшість не негативна"
+
+msgid "Canceled (during discussion due to revocation)"
+msgstr "Скасовано (відкликанням під час обговорення)"
+
+msgid "Canceled"
+msgstr "Скасовано"
+
+msgid "List all revisions (#{count})"
+msgstr "Список всіх версій (#{count})"
+
+msgid "Member of area"
+msgstr "Користувач Теми"
+
+msgid "inactive"
+msgstr "неактивний"
+
+msgid "Active?"
+msgstr "Активне?"
+
+msgid "Direct majority denumerator"
+msgstr "Знаменник прямої більшості"
+
+msgid "This initiative is already revoked"
+msgstr "Цю ініціативу вже відкликано"
+
+msgid "No events selected to list"
+msgstr "Жодних подій не вибрано до списку"
+
+msgid "Please choose a password and enter it twice. The password is case sensitive."
+msgstr "Будь ласка, оберіть пароль та введіть його двічі. Пароль чутливий до регістру."
+
+msgid "Show only events which match... (or associtated)"
+msgstr "Показати тільки ті події, що відповідають... (або пов'язані)"
+
+msgid "Unit list"
+msgstr "Список Спільнот"
+
+msgid "[event mail] Phase: #{phase}"
+msgstr " Фаза: #{phase}"
+
+msgid "This title is really too short!"
+msgstr "Назва занадто коротка!"
+
+msgid "Accepted at"
+msgstr "Прийнято о"
+
+msgid "Profession"
+msgstr "Професія"
+
+msgid ")) == "
+msgstr ""
+
+msgid "Frozen"
+msgstr "Заморожено"
+
+msgid "Implicitly admitted"
+msgstr "Неявно допущений"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "You need to be logged in, to use all features of this system."
+msgstr "Ви маєте увійти для використання всіх можливостей системи."
+
+msgid "Manage filter"
+msgstr "Керувати фільтром"
+
+msgid "JavaScript is disabled or not available."
+msgstr "JavaScript відсутній або вимкнено."
+
+msgid "This member is already initiator of this initiative"
+msgstr "Учасник вже є Ініціатором цієї Ініціативи"
+
+msgid "Incoming delegations"
+msgstr "Вам Делегували"
+
+msgid "You are supporter"
+msgstr "Ви підтримуєте"
+
+msgid "Latest draft created at #{date} #{time}"
+msgstr "Останній варіант від #{date} #{time}"
+
+msgid "Email address confirmation"
+msgstr "Підтвердження email адреси"
+
+msgid "Software"
+msgstr "Програмне забезпечення"
+
+msgid "Sunday"
+msgstr "Неділя"
+
+msgid "Your vote has been discarded. Delegation rules apply if set."
+msgstr "Ви відкликали свій голос. Використаються правила делегування (за наявності)."
+
+msgid "Published"
+msgstr "Опубліковано"
+
+msgid "External memberships"
+msgstr "Зовнішнє членство"
+
+msgid "Change name"
+msgstr "Змінити ім'я"
+
+msgid "Oldest"
+msgstr "Найдавніші"
+
+msgid "none"
+msgstr "немає"
+
+msgid "Old password is wrong"
+msgstr "Старий пароль неправильний"
+
+msgid "Address"
+msgstr "Адреса"
+
+msgid "Upload images"
+msgstr "Завантажити фото"
+
+msgid "Change issue delegation"
+msgstr "Змінити делегування питання"
+
+msgid "#{count} of your outgoing delegation(s) are broken"
+msgstr "#{count} з Ваших Делегувань пошкоджено"
+
+msgid "Draft"
+msgstr "Варіант"
+
+msgid "Suggestion currently implemented"
+msgstr "Пропозиція зараз реалізована"
+
+msgid "New password"
+msgstr "Новий пароль"
+
+msgid "You are supporter of this initiative"
+msgstr "Ви підтримуєте цю ініціативу"
+
+msgid "Your support has been removed from this initiative"
+msgstr "Ваша підтримка була видалена з цієї Ініціативи"
+
+msgid "Member page"
+msgstr "Сторінка користувача"
+
+msgid "Member has voting privileges for this unit"
+msgstr "Користувач має привілеї для голосування  у Спільноті"
+
+msgid "until"
+msgstr "до"
+
+msgid "Direct majority"
+msgstr "Пряма більшість"
+
+msgid "Add to my contacts"
+msgstr "Додати до моїх контактів"
+
+msgid "Canceled (issue not accepted)"
+msgstr "Скасовано (питання не затверджено)"
+
+msgid "This email address is too short!"
+msgstr "Цей Е-мейл закороткий!"
+
+msgid "Voting for this issue has already begun."
+msgstr "Голосування за цим питанням вже почалося."
+
+msgid "Counting starts soon"
+msgstr "Підрахунок скоро почнеться"
+
+msgid "Details"
+msgstr "Деталі"
+
+msgid "Finished (with winner)"
+msgstr "Завершено (з переможцем)"
+
+msgid "Save current filter"
+msgstr "Зберегти цей фільтр"
+
+msgid "and #{count} more initiatives"
+msgstr "та #{count} інших Ініціатив"
+
+msgid "Suggest no initiative"
+msgstr "Не рекомендувати іншу ініціативу"
+
+msgid "Email address"
+msgstr "Email адреса"
+
+msgid "Show filter details"
+msgstr "Показати налаштування фільтру"
+
+msgid "Refuse invitation"
+msgstr "Відхилити запрошення"
+
+msgid "Send invite?"
+msgstr "Надіслати запрошення?"
+
+msgid "Only for issues reaching the frozen phase"
+msgstr "Тільки для питань що дійшли фази замороження."
+
+msgid "Login name request"
+msgstr "Запит Логіну"
+
+msgid "Abandon unit and area delegations for this issue"
+msgstr "Скасувати делегування підрозділів та регіону для цього питання"
+
+msgid "+getElementById("
+msgstr ""
+
+msgid "Screen name"
+msgstr "Ім’я користувача"
+
+msgid "Missing help text: #{id}.#{lang}.txt"
+msgstr "Відсутній текст підказки: #{id}.#{lang}.txt"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "Member list"
+msgstr "Список користувачів"
+
+msgid "Change password"
+msgstr "Змінити пароль"
+
+msgid "Status quo: #{rank}"
+msgstr "Рівновага: #{rank}"
+
+msgid "Member inactive?"
+msgstr "Користувач не активний?"
+
+msgid "New address"
+msgstr "Нова адреса"
+
+msgid "#{date} at #{time}"
+msgstr "#{date} о #{time}"
+
+msgid "Start search"
+msgstr "Почати пошук"
+
+msgid "Today at #{time}"
+msgstr "Сьогодні о #{time}"
+
+msgid "[event mail] Policy: #{policy}"
+msgstr " Процедура: #{policy}"
+
+msgid "Edit initiative"
+msgstr "Редагувати ініціативу"
+
+msgid "Disapproval [many entries]"
+msgstr "Несхвалення"
+
+msgid "Supported"
+msgstr "Підтримка"
+
+msgid "to reset your password please click on the following link:\n\n"
+msgstr "для скидання Вашого паролю, будь ласка, використайте наступне посилання:\n\n"
+
+msgid "My units"
+msgstr "Мої Спільноти"
+
+msgid "Identification"
+msgstr "Ідентифікація"
+
+msgid "Discussion on issue"
+msgstr "Дискусія по питанню"
+
+msgid "Potentially supported"
+msgstr "Потенційна підтримка"
+
+msgid "delete<br /><br />"
+msgstr "видалити<br /><br />"
+
+msgid "Initiative quorum denumerator"
+msgstr "Знаменник кворуму по ініціативі"
+
+msgid "Voters"
+msgstr "Голосували"
+
+msgid "Add alternative initiative to issue"
+msgstr "Додати альтернативну ініціативу до питання"
+
+msgid "Hint"
+msgstr "Підказка"
+
+msgid "Old password"
+msgstr "Старий пароль"
+
+msgid "Broken delegations"
+msgstr "Пошкоджені Делегування"
+
+msgid "This suggestion has been meanwhile deleted"
+msgstr "Цю пропозицію було видалено"
+
+msgid "Indirect majority numerator"
+msgstr "Чисельник непрямої більшості"
+
+msgid "Approval [single entry]"
+msgstr "Схвалення"
+
+msgid "Any phase"
+msgstr "Всі Фази"
+
+msgid "No supporters"
+msgstr "Нема прихильників"
+
+msgid "Registration (step 2 of 3: Personal information)"
+msgstr "Реєстрація (крок 2 з 3: Персональна інформація)"
+
+msgid "One issue you are interested in"
+msgstr "Одне Питання в якому Ви зацікавлені"
+
+msgid "Fully frozen at"
+msgstr "Повністю заморожено в"
+
+msgid "(#{more_count} duplicates removed)"
+msgstr "(#{more_count} Дублікатів було видалено)"
+
+msgid "Reset code"
+msgstr "Код перевстановлення"
+
+msgid "API key has been deleted"
+msgstr "API-Ключ було видалено"
+
+msgid "Cancel [nullify]"
+msgstr "Відмінити"
+
+msgid "with winner"
+msgstr "з переможцем"
+
+msgid "month [interval ago]"
+msgstr "місяць"
+
+msgid "Check your delegations!"
+msgstr "Перевірити Ваші делегування"
+
+msgid "Remove from contacts"
+msgstr "Видалити з контактів"
+
+msgid "Abandon unit delegation"
+msgstr "Скасувати делегування підрозділів"
+
+msgid "Policy"
+msgstr "Процедура"
+
+msgid "Website"
+msgstr "Вебсайт"
+
+msgid "a bit unsatisfied"
+msgstr "дещо незадоволений"
+
+msgid "Show inactive units"
+msgstr "Показати неактивні спільноти"
+
+msgid "Edit my profile"
+msgstr "Редагувати мій профіль"
+
+msgid "Your rating has been deleted"
+msgstr "Ваш рейтинг було видалено"
+
+msgid "By delegation"
+msgstr "Делегуванням"
+
+msgid "month [interval]"
+msgstr "місяць"
+
+msgid "Password has been reset successfully"
+msgstr "Пароль було успішно оновлено"
+
+msgid "One issue"
+msgstr "Одне Питання"
+
+msgid "Voting comment available"
+msgstr "є коментар до голосування"
+
+msgid "action"
+msgstr "дія"
+
+msgid "Issue has been canceled"
+msgstr "Питання знято"
+
+msgid "Voting has not started yet."
+msgstr "Голосування ще не почалося."
+
+msgid "Issue pad"
+msgstr "Блокнот Питання"
+
+msgid "On that page please enter the invite key:\n\n"
+msgstr "На тій сторінці, будь ласка, введіть код запрошення:\n\n"
+
+msgid "Direct"
+msgstr "Напряму"
+
+msgid "years [interval ago]"
+msgstr "роки(ів)"
+
+msgid "Parent unit"
+msgstr "Першоджерельна Спільнота"
+
+msgid "Friday"
+msgstr "П'ятниця"
+
+msgid "This member is supporter of this initiative via delegation"
+msgstr "Учасник підтримує Ініціативу через делегування"
+
+msgid "Rendered"
+msgstr "Форматовано"
+
+msgid "Change unit delegation"
+msgstr "Змінити делегування спільноти"
+
+msgid "Supporters"
+msgstr "Підтримують"
+
+msgid "variable"
+msgstr "змінна"
+
+msgid "Voting comment (last updated: #{timestamp})"
+msgstr "Коментар до голосування (останнє оновлення: #{timestamp})"
+
+msgid "Change your login"
+msgstr "Змінити свій логін"
+
+msgid "Please confirm your email address by clicking the following link:\n\n"
+msgstr "Будь ласка, підтвердьте свою адресу електронної пошти, натиснувши наступне посилання:\n\n"
+
+msgid "#{interval_text} ago"
+msgstr "#{interval_text} тому"
+
+msgid "Voting started"
+msgstr "Голосування розпочалося"
+
+msgid "Cancel issue #{id}"
+msgstr "Відмнити питання #{id}"
+
+msgid "Configure notifications now"
+msgstr "Налаштувати повідомлення зараз"
+
+msgid "Cancel registration"
+msgstr "Відмінити реєстрацію"
+
+msgid "Passwords don't match!"
+msgstr "Паролі на співпадають!"
+
+msgid "API Key"
+msgstr "API-Ключ"
+
+msgid "Disapproval (prefer to last block) [many entries]"
+msgstr "Несхвалення (перевага нижньому/наступному блоку)"
+
+msgid "Abstention [many entries]"
+msgstr "Утриматись"
+
+msgid "Verification time"
+msgstr "Час на перевірку"
+
+msgid "Participants"
+msgstr "Долучені"
+
+msgid "This member account has been created at #{created}"
+msgstr "Акаунт цього учасника був створений #{created}"
+
+msgid "Please enter your login name. You will receive an email with a link to reset your password."
+msgstr "Будь ласка, введіть Ваше ім’я Користувача (login name). Ви отримаєте листа з посиланням для відновлення паролю."
+
+msgid "Other failures"
+msgstr "Інші збої"
+
+msgid "Discussion"
+msgstr "Дискусія"
+
+msgid "Potential supported"
+msgstr "Потенційно підтриманий"
+
+msgid "Edit draft"
+msgstr "Редагувати варіант"
+
+msgid "Quorum"
+msgstr "Кворум"
+
+msgid "Show policies not in use"
+msgstr "Показати правила, що не використовуються"
+
+msgid "Reset password"
+msgstr "Забули пароль"
+
+msgid "Unknown author"
+msgstr "Невідомий Автор"
+
+msgid "Membership not existent"
+msgstr "Реєстрація членства відсутня"
+
+msgid "Schulze rank"
+msgstr "Ранг за методом Шульце"
+
+msgid "Area list of '#{unit_name}'"
+msgstr "Список тем спільноти '#{unit_name}'"
+
+msgid "Confirm"
+msgstr "Підтвердити"
+
+msgid "months [interval time left]"
+msgstr "місяця(ів)"
+
+msgid "#{count} finished"
+msgstr "#{count} завершено"
+
+msgid "Currently no API key is set."
+msgstr "API ключ зараз не встановлено."
+
+msgid "Ignore initiative"
+msgstr "Ігнорувати Iніціативу"
+
+msgid "Show areas not in use"
+msgstr "Показати Теми, що не у користуванні"
+
+msgid "You are potential supporter"
+msgstr "Ви потенційно підтримаєте"
+
+msgid "at least #{count} approvals or abstentions"
+msgstr "принаймні #{count} Згод або Утримань"
+
+msgid "Initiative ##{id}"
+msgstr "Ініціатива ##{id}"
+
+msgid "Change vote"
+msgstr "Змінити голос"
+
+msgid "Change notification settings"
+msgstr "Змінити налаштування сповіщень"
+
+msgid "Show diff"
+msgstr "Показати відмінності"
+
+msgid "This name is really too short!"
+msgstr "Це ім'я занадто коротке!"
+
+msgid "Your support has been added to this initiative"
+msgstr "Ваша підтримка була додана до цієї Ініціативи"
+
+msgid "Member successfully registered"
+msgstr "Користувача успішно зареєстровано"
+
+msgid "Member has been removed from your contacts"
+msgstr "Користувача було видалено з Вашого списку контактів"
+
+msgid "Everything"
+msgstr "Все"
+
+msgid "Invited"
+msgstr "Запрошено"
+
+msgid "Issue finished"
+msgstr "Питання завершене"
+
+msgid "Issue quorum"
+msgstr "Кворум по питанню"
+
+msgid "I like to receive notifications by email about events in my areas and issues:"
+msgstr "Я хочу отримувати сповіщення електронною поштою про події в моїх Темах та Спільнотах:"
+
+msgid "Invite code"
+msgstr "Код запрошення"
+
+msgid "Tuesday"
+msgstr "Вівторок"
+
+msgid "Password (repeat)"
+msgstr "Пароль (повторити)"
+
+msgid "You have to mark 'Are you sure' to revoke!"
+msgstr "Для видалення Вам потрібно відмітити 'Ви впевнені?'"
+
+msgid "Search for members"
+msgstr "Пошук учасників"
+
+msgid "Search term (only complete words)"
+msgstr "Критерій пошуку (тільки повні слова)"
+
+msgid "#{policy_name} ##{issue_id}"
+msgstr ""
+
+msgid "not implemented"
+msgstr "не реалізовано"
+
+msgid "Apply unit or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"
+msgstr "Застосувати делегування Спільноти або Теми з цього питання (Зараз: #{delegate_name} [#{scope}])"
+
+msgid "Download documents"
+msgstr "Скачати документ"
+
+msgid "Manage timeline filters"
+msgstr "Керування фільтром часу"
+
+msgid "LiquidFeedback"
+msgstr "LiquidFeedback"
+
+msgid "API key has been created"
+msgstr "API-ключ було створено"
+
+msgid "API keys"
+msgstr "API ключі доступу"
+
+msgid "Traditional wiki syntax"
+msgstr "Традиційний Wiki-синтаксис"
+
+msgid "Saved as contact"
+msgstr "Збережено до Контактів"
+
+msgid "delegates to"
+msgstr "делегував"
+
+msgid "Monday"
+msgstr "Понеділок"
+
+msgid "Choose initiator"
+msgstr "Обрати Ініціатора"
+
+msgid "Change email"
+msgstr "Змінити email-адресу"
+
+msgid "Invitation has been refused"
+msgstr "Запрошення було скасовано"
+
+msgid "#{interested_issues_to_vote_count} issue(s) you are interested in"
+msgstr "#{interested_issues_to_vote_count} Тем у яких Ви зацікавлені"
+
+msgid "Delegate unit"
+msgstr "Делегувати Спільноту"
+
+msgid "No notifications at all"
+msgstr "Зовсім ніяких сповіщень"
+
+msgid "Issues:"
+msgstr "Питання:"
+
+msgid "No changes to your images were made"
+msgstr "Жодних змін до зображення не зроблено"
+
+msgid "License"
+msgstr "Ліцензія"
+
+msgid "Search results for: '#{search}'"
+msgstr "Результати пошуку для: '#{search}'"
+
+msgid "change discussion URL"
+msgstr "Змінити URL дискусії"
+
+msgid "The code you've entered is invalid"
+msgstr "Ви ввели неправильний код!"
+
+msgid "Canceled (no initiative admitted)"
+msgstr "Скасовано (не визнано жодної ініціативи)"
+
+msgid "Search context"
+msgstr "Контекст пошуку"
+
+msgid "Currently required"
+msgstr "Потрібні зараз (учасники)"
+
+msgid "We couldn't deliver a confirmation mail to this address. Please check entered email address."
+msgstr "Не вдалося доставити листа для перевірки на цю адресу. Будь ласка, перевірте введену адресу електронної пошти."
+
+msgid "Disapproval [single entry]"
+msgstr "Несхвалення"
+
+msgid "No multistage majority"
+msgstr "Без багатоступеневої більшості"
+
+msgid "Suggestions"
+msgstr "Пропозиції"
+
+msgid "You are currently not invited to any initiative."
+msgstr "Наразі Ви не залучені до жодної Ініціативи."
+
+msgid "Unit: '#{name}'"
+msgstr "Спільнота: '#{name}'"
+
+msgid "This initiative has been revoked at #{revoked}"
+msgstr "Ця ініціатива була відкликана #{revoked}"
+
+msgid "Your request has been processed."
+msgstr "Ваш запит було опрацьовано."
+
+msgid "Approval (third preference) [many entries]"
+msgstr "Затвердження (третій запит) [декілька варіантів]"
+
+msgid "Issue delegation"
+msgstr "Делегування Питання"
+
+msgid "You are interested"
+msgstr "Ви зацікавлені"
+
+msgid "On that page please enter the confirmation code:\n\n"
+msgstr "На тій сторінці, будь ласка, введіть код підтвердження:\n\n"
+
+msgid "Wiki engine for statement"
+msgstr "Wiki-движок для викладення пропозицій"
+
+msgid "Change your screen name"
+msgstr "Змінити своє ім’я на сайті"
+
+msgid "Change area delegation"
+msgstr "Змінити делегування теми"
+
+msgid "must not"
+msgstr "не повинно"
+
+msgid "deactivated"
+msgstr "деактивовано"
+
+msgid "If this link is not working, please open following url in your web browser:\n\n"
+msgstr "Якщо це посилання не працює, будь ласка, відкрийте наступне посилання в переглядачі:\n\n"
+
+msgid "Confirmed address"
+msgstr "Підтверджений email"
+
+msgid "Title"
+msgstr "Назва"
+
+msgid "Approval (#th preference) [single entry]"
+msgstr "Затвердження (#.- вибір)"
+
+msgid "You are already not supporting this initiative"
+msgstr "Ви вже не підтримуєте цю Ініціативу"
+
+msgid "You already voted this issue"
+msgstr "Ви вже голосували по цьому питанню"
+
+msgid "Approval [many entries]"
+msgstr "Схвалення"
+
+msgid "Global delegation"
+msgstr "Глобальне делегування"
+
+msgid "Strict direct majority"
+msgstr "Сувора пряма більшість"
+
+msgid "Latest events"
+msgstr "Останні події"
+
+msgid "You have voting privileges for this unit"
+msgstr "Ви можете голосувати в цій спільноті"
+
+msgid "Suggestion for initiative: '#{name}'"
+msgstr "Пропозиція до ініціативи: '#{name}'"
+
+msgid "abandoned"
+msgstr "відмовились"
+
+msgid "Discussion with initiators"
+msgstr "Дискусія з ініціаторами"
+
+msgid "(new window)"
+msgstr "(нове вікно)"
+
+msgid "neutral"
+msgstr "нейтрально"
+
+msgid "Forgot password?"
+msgstr "Забули пароль?"
+
+msgid "Hide active units"
+msgstr "Приховати активні Спільноти"
+
+msgid "Indirect majority denumerator"
+msgstr "Знаменник непрямої більшості"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Logout successful"
+msgstr "Вихід успішно виконано"
+
+msgid "Half frozen at"
+msgstr "Напів заморожено в"
+
+msgid "Terms of use"
+msgstr "Умови користування"
+
+msgid "Indirect majority positive"
+msgstr "Непряма бідьшість позитивна"
+
+msgid "#{count} days ago"
+msgstr "#{count} дні тому"
+
+msgid "Wednesday"
+msgstr "Середа"
+
+msgid "#{count} in verification"
+msgstr "#{count} у перевірці"
+
+msgid "Help for: #{text}"
+msgstr "Справка для: #{text}"
+
+msgid "Compare"
+msgstr "Порівняти"
+
+msgid "New initiative draft"
+msgstr "Проект нової Ініціативи"
+
+msgid "Index"
+msgstr "Індекс"
+
+msgid "Only for issues reaching the discussion phase"
+msgstr "Питання, що досягли фази дискусії"
+
+msgid "You are invited to #{count} initiative(s)"
+msgstr "Вас запрошено до #{count} Ініціатив"
+
+msgid "You were interested"
+msgstr  "Ви були зацікавлені"
+
+msgid "New issue"
+msgstr "Нове питання"
+
+msgid "Member is already saved in your contacts!"
+msgstr "Користувача вже збережено у Вашому списку контактів!"
+
+msgid "Hello,\n\n"
+msgstr "Вітаємо,\n\n"
+
+msgid "Saturday"
+msgstr "Субота"
+
+msgid "area"
+msgstr "Тема"
+
+msgid "Select language"
+msgstr "Обрати мову"
+
+msgid "New draft"
+msgstr "Новий Проект"
+
+msgid "Issue events"
+msgstr "Події щодо Питання"
+
+msgid "#{number} Image(s) has been updated"
+msgstr "#{number} Зображень(ня) було оновлено"
+
+msgid "the following login is connected to this email address:\n\n"
+msgstr "вказане ім'я користувача (логін) пов'язане з наступною адресою електронної пошти:\n\n"
+
+msgid "Suggestion"
+msgstr "Пропозиція"
+
+msgid "New draft has been added to initiative"
+msgstr "Новий Проект було додано до Ініціативи"
+
+msgid "Invalid query"
+msgstr "Хибний запит"
+
+msgid "last 24 hours"
+msgstr "останні 24 години"
+
+msgid "day [interval]"
+msgstr "день"
+
+msgid "Issue quorum denumerator"
+msgstr "Знаменник кворуму по питанню"
+
+msgid "You are potential supporter of this initiative via delegation"
+msgstr "Ви є потенційний прихильник Ініціативи через делегування"
+
+msgid "Refresh support to current draft"
+msgstr "Оновити підтримку цього проекту"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "login name"
+msgstr "Логін"
+
+msgid "without"
+msgstr "без"
+
+msgid "Login-Name: "
+msgstr "Логін: "
+
+msgid "Canceled (before accepted due to revocation)"
+msgstr "Скасовано (відкликання перед затвердженням)"
+
+msgid "Disapproval (prefer to lower block) [single entry]"
+msgstr "Несхвалення (перевага нижньому/наступному блоку)"
+
+msgid "No more events available"
+msgstr "Немає доступних подій"
+
+msgid "Updated drafts"
+msgstr "Оновлені Проекти"
+
+msgid "Please choose two different versions of the draft to compare"
+msgstr "Будь ласка, виберіть дві різні версії проекту для порівняння."
+
+msgid "Birthday"
+msgstr "День народження"
+
+msgid "Not voted issues"
+msgstr "Не проголосовані питання"
+
+msgid "Discussion URL"
+msgstr "URL дискусії"
+
+msgid "Current trustee"
+msgstr "Поточна Довірена особа"
+
+msgid "Issue finished without voting"
+msgstr "Питання завершене без голосування"
+
+msgid "Please choose a name, i.e. your real name or your nick name. This name will be shown to others to identify you."
+msgstr "Будь ласка, оберіть ім'я - справжнє або псевдонім. Це ім'я буде видно іншим для вашої ідентифікації."
+
+msgid "Please select your preferred notification level"
+msgstr "Будь ласка, оберіть бажаний рівень сповіщень"
+
+msgid "Id"
+msgstr "id"
+
+msgid "Please choose a member"
+msgstr "Будь ласка, виберіть Користувача"
+
+msgid "This service is provided by:"
+msgstr "Цей сервіс надається:"
+
+msgid "activated"
+msgstr "активовано"
+
+msgid "+ #{weight}"
+msgstr "+ #{weight}"
+
+msgid "should not"
+msgstr "не бажано"
+
+msgid "should"
+msgstr "бажано"
+
+msgid "This member is potential supporter of this initiative"
+msgstr "Учасник є потенційним прихильником Ініціативи"
+
+msgid "Unconfirmed address"
+msgstr "E-mail непідтверджений"
+
+msgid "Vote now"
+msgstr "Голосувати зараз"
+
+msgid "Closed"
+msgstr "Закрито"
+
+msgid "New passwords is too short."
+msgstr "Новий пароль занадто короткий."
+
+msgid "Please enter the invite code you've received."
+msgstr "Будь ласка, введіть отриманий код запрошення."
+
+msgid "On that page please enter the reset code:\n\n"
+msgstr "На тій сторінці, будь ласка, введіть код скидання:\n\n"
+
+msgid "Add new suggestion"
+msgstr "Додати нову пропозицію"
+
+msgid "Etherpad authentication failed"
+msgstr "Невдала реєстрація EtherPad"
+
+msgid "Update voting comment"
+msgstr "Оновити коментар"
+
+msgid "Interval format:"
+msgstr "Формат інтервала:"
+
+msgid "Issue frozen"
+msgstr "Питання заморожене"
+
+msgid "Open issues"
+msgstr "Відкриті питання"
+
+msgid "Member"
+msgstr "Користувач"
+
+msgid "Initiators"
+msgstr "Ініціатори"
+
+msgid "You are now initiator of this initiative"
+msgstr "Ви є Ініціатор цієї Ініціативи"
+
+msgid "This member is inactive"
+msgstr "Учасник неактивний"
+
+msgid "Commit suggestion"
+msgstr "Подати пропозицію"
+
+msgid "This issue has been canceled by administrative intervention."
+msgstr "Це питання було скасовано адміністративним втручанням."
+
+msgid "Email confirmation request"
+msgstr "Запит на підтвердження email адреси"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "more unsatisfied"
+msgstr "більше незадоволено"
+
+msgid "All of them"
+msgstr "Всі"
+
+msgid "Initiative quorum"
+msgstr "Кворум по ініціативі"
+
+msgid "#{interval_text} [interval]"
+msgstr "#{interval_text}"
+
+msgid "Back to initiative"
+msgstr "Назад до Ініціатив"
+
+msgid "Create new policy"
+msgstr "Створити нову процедуру"
+
+msgid "Apply global or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"
+msgstr "Застосувати глобальне чи Тематичне Делегування для цього Питання  (Зараз: #{delegate_name} [#{scope}])"
+
+msgid "[not displayed public]"
+msgstr "[не відображається публічно]"
+
+msgid "Forgot login name?"
+msgstr "Забули логін?"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Suggestion does not exist anymore"
+msgstr "Пропозиція більше не існує"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Polling mode"
+msgstr "Режим опитування"
+
+msgid "This login is too short!"
+msgstr "Введений логін занадто короткий!"
+
+msgid "Empty help text: #{id}.#{lang}.txt"
+msgstr "Порожній текст довідки: #{id}.#{lang}.txt"
+
+msgid "Default Policy"
+msgstr "Стандартні Правила"
+
+msgid "The drafts do not differ"
+msgstr "Проекти не відрізняються"
+
+msgid "This screen name is too short!"
+msgstr "Ім’я користувача занадто коротке!"
+
+msgid "Unit delegation"
+msgstr "Делегування Спільноти"
+
+msgid "Not approved"
+msgstr "Не прийнято"
+
+msgid "Set delegation for Area '#{name}'"
+msgstr "Встановити Делегування для Теми '#{name}'"
+
+msgid "Hide"
+msgstr "Приховати"
+
+msgid "You are invited to become initiator of this initiative."
+msgstr "Вас запрошено стати Ініціатором цієї Ініціативи."
+
+msgid "Global search"
+msgstr "Глобальний пошук"
+
+msgid "Units and areas"
+msgstr "Спільноти та Теми"
+
+msgid "#{name}\n\n"
+msgstr "#{name}\n\n"
+
+msgid "Ignore Areas"
+msgstr "Ігнорувати Тему"
+
+msgid "Initiative is revoked now"
+msgstr "Ініціатива тепер відкликана"
+
+msgid "Set delegation for Issue ##{number} in Area '#{area_name}'"
+msgstr "Встановити делегування для Питання ##{number} у Темі '#{area_name}' festlegen"
+
+msgid "Member has not approved latest draft"
+msgstr "Користувач не затвердив останній проект"
+
+msgid "Do not vote directly"
+msgstr "Не голосувати напряму"
+
+msgid "Suggestion ##{id}"
+msgstr "Пропозиція ##{id}"
+
+msgid "Voting starts soon"
+msgstr "Голосування ось-ось розпочнеться"
+
+msgid "no reverse beat path to status quo (including ties)"
+msgstr "не існує зворотнього шляху до Рівноваги (у тому числі через зв'язки)"
+
+msgid "This issue has been canceled."
+msgstr "Це питання було скасовано."
+
+msgid "Stop ignoring member"
+msgstr "Припинити ігнорування Користувача"
+
+msgid "Delete filter"
+msgstr "Видалити фільтр"
+
+msgid "Delegation abandoned"
+msgstr "Делегування скасовано"
+
+msgid "Invalid login name or password!"
+msgstr "Невірний логін або пароль!"
+
+msgid "One more area in this unit"
+msgstr "Ще одна Тема в цій Спільноті"
+
+msgid "You were supporter"
+msgstr "Ви були прихильником"
+
+msgid "This initiative has not been admitted! It failed the quorum of #{quorum}."
+msgstr "Ініціатива не пройшла затвердження! Не досягнуто кворуму #{quorum}."
+
+msgid "Images"
+msgstr "Зображення"
+
+msgid "possibly instable result caused by multistage majority"
+msgstr "можливо нестабільний результат викликано багаторівневою більшістю"
+
+msgid "All issues"
+msgstr "Всі Питання"
+
+msgid "Eligible as winner"
+msgstr "Прийнято як переможця"
+
+msgid "Syntax help"
+msgstr "Синтаксис"
+
+msgid "This initiative is revoked"
+msgstr "Ця ініціатива відкликана"
+
+msgid "Set new password"
+msgstr "Встановити новий пароль"
+
+msgid "Show"
+msgstr "Показати"
+
+msgid "Opinions"
+msgstr "Думки (погляди) учасників"
+
+msgid "Unit '#{name}'"
+msgstr "Спільнота '#{name}'"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Policy '#{name}'"
+msgstr "Процедура '#{name}'"
+
+msgid "Free timing"
+msgstr "Вільний вибір часу"
+
+msgid "Approval (#th preference) [many entries]"
+msgstr "Затвердження (#.- вибір)"
+
+msgid "Locked?"
+msgstr "Заблоковано?"
+
+msgid "Your rating has been updated"
+msgstr "Ваш рейтинг було оновлено"
+
+msgid "Date format is not valid. Please use following format: YYYY-MM-DD"
+msgstr "Не вірний формат дати. Будь ласка використовуйте наступний формат: РРРР-ММ-ДД, наприклад 2014-06-23"
+
+msgid "This invite key is connected with the following information:"
+msgstr "Цей код запрошення пов’язаний з наступною інформацією:"
+
+msgid "Delegate area"
+msgstr "Делегувати Тему"
+
+msgid "Finish delegation check"
+msgstr "Завершити перевірку делегування"
+
+msgid "Ignore member"
+msgstr "Ігнорувати Користувача"
+
+msgid "Remove initiator from initiative"
+msgstr "Видалити Ініціатора з Ініціативи"
+
+msgid "Invite initiator"
+msgstr "Запросити ініціатора"
+
+msgid "Member name"
+msgstr "Ім'я користувача"
+
+msgid "Edit profile"
+msgstr "Редагувати профіль"
+
+msgid "You were potential supporter"
+msgstr "Ви були потенційним прихильником"
+
+msgid "Your suggestion has been added"
+msgstr "Ваша пропозиція додана"
+
+msgid "This member is potential supporter of this initiative via delegation"
+msgstr "Учасник є потенційним прихильником Ініціативи через делегування"
+
+msgid "Login"
+msgstr "Вхід"
+
+msgid "without winner"
+msgstr "без переможця"
+
+msgid "Verification starts soon"
+msgstr "Фаза перевірки ось-ось розпочнеться"
+
+msgid "This login is already taken, please choose another one!"
+msgstr "Такий логін вже зайнятий, будь ласка, спробуйте інший!"
+
+msgid "Issue quorum numerator"
+msgstr "Чисельник кворуму по питанню"
+
+msgid "#{count} in voting"
+msgstr "#{count} у голосуванні"
+
+msgid "Wiki engine"
+msgstr "Wiki engine"
+
+msgid "Canceled by administrative intervention"
+msgstr "Скасовано адміністративним втручанням"
+
+msgid "Registration (step 1 of 3: Invite code)"
+msgstr "Реєстрація (крок 1 з 3: Код запрошення)"
+
+msgid "Rejected"
+msgstr "Відхилено"
+
+msgid "Confirmation code"
+msgstr "Код підтвердження"
+
+msgid "Please confirm your email address"
+msgstr "Будь ласка, підтвердьте свою адресу електронної пошти"
+
+msgid "Issue accepted"
+msgstr "Питання прийнято"
+
+msgid "Initiative quorum numerator"
+msgstr "Чисельник кворуму по ініціативі"
+
+msgid "Show help text"
+msgstr "Показати текстову Допомогу"
+
+msgid "Your password has been updated successfully"
+msgstr "Ваш пароль було успішно змінено"
+
+msgid "Yesterday at #{time}"
+msgstr "Вчора о #{time}"
+
+msgid "No default"
+msgstr "Без стандартних значень"
+
+msgid "New suggestion"
+msgstr "Нова пропозиція"
+
+msgid "Preview"
+msgstr "Превью"
+
+msgid "Trustee"
+msgstr "Довірена особа"
+
+msgid "You are not participating in the only area of the unit"
+msgstr "Ви не долучились до єдиної теми в цій спільноті"
+
+msgid "You are interested in this issue"
+msgstr "Ви зацікавлені в цьому питанні"
+
+msgid "Potential supporters (before begin of voting)"
+msgstr "Потенційно підтримували (перед голосуванням)"
+
+msgid "Request password reset link"
+msgstr "Запитати зміну пароля"
+
+msgid "No potential supporters"
+msgstr "Немає потенційних прихильників"
+
+msgid "Save timeline filters"
+msgstr "Зберегти часовий фільтр"
+
+msgid "Please choose a policy"
+msgstr "Виберіть процедуру"
+
+msgid "Remove initiator"
+msgstr "Видалити Ініціатора"
+
+msgid "Direct majority numerator"
+msgstr "Чисельник прямої більшості"
+
+msgid "[Name of Language]"
+msgstr "Українська"
+
+msgid "satisfied"
+msgstr "задоволено"
+
+msgid "Activate account"
+msgstr "Активувати акаунт"
+
+msgid "Stylesheet URL has been updated"
+msgstr "URL стилю було оновлено"
+
+msgid "Your name has been changed"
+msgstr "Ваше ім’я змінено"
+
+msgid "Sorry, but you are currently not invited"
+msgstr "Вибачте, але в даний момент Ви не є запрошеними."
+
+msgid "New initiative"
+msgstr "Нова Ініціатива"
+
+msgid "Statement"
+msgstr "Постанова"
+
+msgid "#{interval_text} left"
+msgstr "#{interval_text} залишилось"
+
+msgid "You are potential supporter of this initiative"
+msgstr "Ви є потенційний прихильник Ініціативи"
+
+msgid "Any state"
+msgstr "Всі стани"
+
+msgid "Revoke initiative"
+msgstr "Відкликати ініціативу"
+
+msgid "Please choose a login name. This name will not be shown to others and is used only by you to login into the system. The login name is case sensitive."
+msgstr "Будь ласка, оберіть ім'я для входу (login). Це ім'я не показується іншим та використовується лише для Вашої авторизації при вході в систему. Увага, регістр символів враховується."
+
+msgid "My areas"
+msgstr "Мої Теми"
+
+msgid "Use terms"
+msgstr "Умови користування"
+
+msgid "No reverse beat path"
+msgstr "Відсутній приорітетний зворотній шлях"
+
+msgid "Registration (step 3 of 3: Terms of use and password)"
+msgstr "Реєстрація (крок 3 з 3: Правила користування та пароль)"
+
+msgid "Generate API key"
+msgstr "Створити API ключа"
+
+msgid "Passwords must consist of at least 8 characters!"
+msgstr "Паролі мають містити щонайменше 8 символів!"
+
+msgid "You didn't confirm your email address '#{email}' within 7 days."
+msgstr "Ви не підтвердили свою імейл адресу '#{email}' протягом 7-ми днів."
+
+msgid "Apply unit delegation for this area (Currently: #{delegate_name} [#{scope}])"
+msgstr "Застосувати Делегування Спільноти до цієї Теми (Зараз: #{delegate_name} [#{scope}])"
+
+msgid "Search members"
+msgstr "Пошук Користувачів"
+
+msgid "Admin menu"
+msgstr "Меню адміністратора"
+
+msgid "Admitted"
+msgstr "Прийнято"
+
+msgid "Closed user group, please login to participate."
+msgstr "Закрита група користувачів. Будь ласка увійдіть для участі."
+
+msgid "global"
+msgstr "глобально"
+
+msgid "Initiative"
+msgstr "Ініціатива"
+
+msgid "Sorry, you have reached your personal flood limit. Please be slower..."
+msgstr "На жаль, Ви досягли ліміту дій. Будь ласка, відпочиньте..."
+
+msgid "Potential supporters"
+msgstr "Потенційно підтримають"
+
+msgid "Only for issues reaching the voting phase"
+msgstr "Питання, що досягли фази голосування"
+
+msgid "Photo"
+msgstr "Фотографія"
+
+msgid "You didn't save any member as contact yet."
+msgstr "Ви ще не залучили жодного Користувача до свого списку контактів!"
+
+msgid "Event #{id} -> #{num} members"
+msgstr "Подія #{id} -> #{num} Користувачів"
+
+msgid "unit"
+msgstr "Спільнота"
+
+msgid "Back to timeline"
+msgstr "Назад до Часопису"
+
+msgid "[No voting privilege]"
+msgstr "[Відсутні привілеї для голосування]"
+
+msgid "Your page has been updated"
+msgstr "Ваша сторінка була оновлена"
+
+msgid "Member successfully updated"
+msgstr "Користувача успішно оновлено"
+
+msgid "Open"
+msgstr "Відкриті"
+
+msgid "Initiative successfully updated"
+msgstr "Ініціативу успішно оновлено"
+
+msgid "Suggestion currently not implemented"
+msgstr "Пропозиція зараз не реалізована"
+
+msgid "Add my interest"
+msgstr "Додати власну зацікавленість"
+
+msgid "Support this initiative"
+msgstr "Підтримати ініціативу"
+
+msgid "and one more initiative"
+msgstr "та одна інша Ініціатива"
+
+msgid "Discussion started"
+msgstr "Дискусія почалась"
+
+msgid "Z-A"
+msgstr "Я-А"
+
+msgid "Upload avatar/photo"
+msgstr "Додати аватар/фото"
+
+msgid "Create / edit policy"
+msgstr "Створити / редагувати правила голосування"
+
+msgid "Please enter your email address. This address will be used for automatic notifications (if you request them) and in case you've lost your password. This address will not be published. After registration you will receive an email with a confirmation link."
+msgstr "Будь ласка, введіть свою адресу електронної пошти. Ця адреса буде використовуватись для автоматичних сповіщень (якщо ви запросите їх) та в разі втрати пароля. Ця адреса не буде оприлюднюватись. Після реєстрації ви отримаєте повідомлення з посиланням для підтвердження."
+
+msgid "Error while updating member, database reported:<br /><br /> (#{errormessage})"
+msgstr "Сталася помилка при оновленні даних Користувача. Статус бази даних:<br /><br /> (#{errormessage})"
+
+msgid "My opinion"
+msgstr "Моя думка (оцінка)"
+
+msgid "Help #{id}"
+msgstr "Справка #{id}"
+
+msgid "Diff"
+msgstr "Відмінності"
+
+msgid "Confirmation code invalid!"
+msgstr "Невірний код підтвердження!"
+
+msgid "Member name history for '#{name}'"
+msgstr "Історія імені користувача '#{name}'"
+
+msgid "Search issues"
+msgstr "Пошук Питань"
+
+msgid "Created at"
+msgstr "Створено"
+
+msgid "You are member"
+msgstr "Ви Учасник"
+
+msgid "Notification address unconfirmed"
+msgstr "Адреса сповіщень не підтверджена"
+
+msgid "#{count} new"
+msgstr "#{count} нових"
+
+msgid "Current status"
+msgstr "Поточний статус"
+
+msgid "Trustee has no voting right in this unit"
+msgstr "Довірена особа не має права голосу в цій Спільноті"
+
+msgid "Set URL"
+msgstr "Встановити посилання (URL)"
+
+msgid "Search initiatives"
+msgstr "Пошук Ініціатив"
+
+msgid "Create alternative initiative"
+msgstr "Створити альтернативну ініціативу"
+
+msgid "Initiative successfully created"
+msgstr "Ініціативу успішно створено"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Cancel issue"
+msgstr "Відмінити питання"
+
+msgid "Please enter the email reset code you have received:"
+msgstr "Будь ласка, введіть код відновлення, отриманий на електронну пошту:"
+
+msgid "Add new unit"
+msgstr "Додати новий підрозділ "
+
+msgid "Posts"
+msgstr "Посади"
+
+msgid "Title of initiative"
+msgstr "Назва Ініціативи"
+
+msgid "Member menu"
+msgstr "Меню користувача"
+
+msgid "No admission needed"
+msgstr "Дозволи непотрібні"
+
+msgid "Profile"
+msgstr "Профіль"
+
+msgid "All areas in my units"
+msgstr "Всі Теми в моїх Спільнотах"
+
+msgid "Member has been removed from initiators"
+msgstr "Користувача було видалено зі списку Ініціторів"
+
+msgid "disabled"
+msgstr "вимкнено"
+
+msgid "You can change your email address only once per hour. Please try again later."
+msgstr "Ви можете змінити свою адресу електронної пошти лише один раз на годину. Будь ласка, спробуйте пізніше."
+
+msgid "Policies"
+msgstr "Процедури"
+
+msgid "Approval (second preference) [many entries]"
+msgstr "Затвердження (другий запит) [декілька варіантів]"
+
+msgid "Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"
+msgstr "Застосувати глобальне Делегування до цієї Теми (Зараз: #{delegate_name} [#{scope}])"
+
+msgid "Thursday"
+msgstr "Четвер"
+
+msgid "Withdraw"
+msgstr "Відмовитись"
+
+msgid "Suggested initiative"
+msgstr "Пропонована ініціатива"
+
+msgid "Standard policies"
+msgstr "Стандартні правила"
+
+msgid "Initiative i#{id}: #{name}"
+msgstr "Ініціатива  i#{id}: #{name}"
+
+msgid "Email address too short!"
+msgstr "Email адреса занадто коротка!"
+
+msgid "Current name"
+msgstr "Поточне ім’я"
+
+msgid "Supporters (before begin of voting)"
+msgstr "Підтримували (перед голосуванням)"
+
+msgid "Initiatives that invited you to become initiator:"
+msgstr "Ініціативи, що запросили Вас стати Ініціатором:"
+
+msgid "You are initiator of this initiative"
+msgstr "Ви є Ініціатор цієї Ініціативи"
+
+msgid "You've successfully registered and you can login now with your login and password!"
+msgstr "Ви успішно зареєструвались та можете увійти з вашим логіном та паролем."
+
+msgid "Contacts"
+msgstr "Контакти"
+
+msgid "Hello "
+msgstr "Вітаємо "
+
+msgid "Verification started"
+msgstr "Фаза перевірки розпочата"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Your login has been changed to '#{login}'"
+msgstr "Ваше ім'я користувача (логін) було змінено на '#{login}'"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "prohibit potentially instable results caused by multistage majorities"
+msgstr "заборонити нестабільні результати, викликані багаторівневою більшістю"
+
+msgid "Password reset request"
+msgstr "Запит на оновлення паролю"
+
+msgid "This issue is already closed."
+msgstr "Це питання вже закрите."
+
+msgid "years [interval time left]"
+msgstr "роки(ів)"
+
+msgid "This member is initiator of this initiative"
+msgstr "Учасник є Ініціатором цієї Ініціативи"
+
+msgid "This member is supporter of this initiative"
+msgstr "Учасник підтримує Ініціативу"
+
+msgid "Register new member"
+msgstr "Зареєструвати нового користувача"
+
+msgid "Move down"
+msgstr "Перемістити вниз"
+
+msgid "Ballot of '#{member_name}' for issue ##{issue_id}"
+msgstr "Голосів з '#{member_name}' по Питанню ##{issue_id}"
+
+msgid "This member is participating, the rest of delegation chain is suspended while discussing"
+msgstr "Учасник бере участь в обговоренні, але не всі інші з ланцюжку делегування."
+
+msgid "Closed issues"
+msgstr "Закриті питання"
+
+msgid "Direct majority non negative"
+msgstr "Пряма більшість не негативна"
+
+msgid "reverse beat path to status quo (including ties)"
+msgstr "зворотній шлях до рівноваги (у тому числі через зв'язки)"
+
+msgid "unit / area"
+msgstr "Спільнота / Тема"
+
+msgid "days [interval ago]"
+msgstr "днів"
+
+msgid "Show policies in use"
+msgstr "Показати правила, що використовуються"
+
+msgid "Collective opinion of supporters"
+msgstr "Загальна думка"
+
+msgid "Delegation turned off for issue"
+msgstr "Делегування для цього питання вимкено"
+
+msgid "Can't send confirmation email"
+msgstr "Не вдається відправити лист-підтвердження на E-Mail."
+
+msgid "Can't remove last initiator"
+msgstr "Останній ініціатор не може бути видалений"
+
+msgid "Initiative: "
+msgstr "Ініціатива: "
+
+msgid "Population"
+msgstr "Популяція"
+
+msgid "You are invited to LiquidFeedback. To register please click the following link:\n\n"
+msgstr "Ви запрошені до LiquidFeedback. Для реєстрації, будь ласка, натисніть на це посилання:\n\n"
+
+msgid "Are you sure?"
+msgstr "Впевнені?"
+
+msgid "Move up"
+msgstr "Перемістити вверх"
+
+msgid "You are currently not supporting this initiative directly. By adding suggestions to this initiative you will automatically become a potential supporter."
+msgstr "Ви не є прихильником Ініціативи, але додавши пропозицію до неї, Ви автоматично станете її потенційним прихильником!"
+
+msgid "Create / edit area"
+msgstr "Створити / редагувати Тему"
+
+msgid "Number of incoming delegations, follow link to see more details"
+msgstr "Кількість вхідних делегувань, щоб побачити більше перейдіть за посиланням"
+
+msgid "Approval (first preference) [single entry]"
+msgstr "Затвердження (перший запит) [один варіант]"
+
+msgid "[event mail] Area: #{name}"
+msgstr "Тема: #{name}"
+
+msgid "#{count} canceled"
+msgstr "#{count} скасовано"
+
+msgid "Download"
+msgstr "Завантажити"
+
+msgid "year [interval]"
+msgstr "рік"
+
+msgid "Initiative events"
+msgstr "Події цієї Ініціативи"
+
+msgid "Abandon global delegation for this area"
+msgstr "Скасувати глобальне делегування для цієї області"
+
+msgid "Check delegations"
+msgstr "Перевірити делегування"
+
+msgid "This issue is already frozen."
+msgstr "Це питання вже заморожене."
+
+msgid "No suggestions yet"
+msgstr "Поки нема пропозицій"
+
+msgid "Initiated"
+msgstr "Ініційовані"
+
+msgid "New passwords does not match."
+msgstr "Нові паролі не співпадають."
+
+msgid "Delegate issue"
+msgstr "Делегувати Питання"
+
+msgid "Download database export"
+msgstr "Експортувати і завантажити базу даних"
+
+msgid "Change order"
+msgstr "Змінити порядок"
+
+msgid "Discard voting"
+msgstr "Відмінити голос"
+
+msgid "Choose member"
+msgstr "Обрати Користувача"
+
+msgid "Interest removed"
+msgstr "Інтерес видалено"
+
+msgid "xmpp"
+msgstr "Jabber (XMPP)"
+
+msgid "Home"
+msgstr "Домашня сторінка"
+
+msgid "Members"
+msgstr "Користувачі"
+
+msgid "Developer settings"
+msgstr "Налаштування Розробника"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Member is now invited to be initiator"
+msgstr "Користувача запрошено бути Ініціатором"
+
+msgid "Notification email"
+msgstr "Імейл для оповіщень"
+
+msgid "Not approved (rank #{rank})"
+msgstr "Не ухвалено (Ранг #{rank})"
+
+msgid "No suggestions"
+msgstr "Пропозиції відсутні"
+
+msgid "[Registered members only]"
+msgstr "[тільки для зареєстрованих користувачів]"
+
+msgid "Notification level not set yet"
+msgstr "Сповіщення ще не налаштовано"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Units"
+msgstr "Спільноти"
+
+msgid "Information about the available policies"
+msgstr "Інформація про наявні процедури"
+
+msgid "Show profile"
+msgstr "Показати профіль"
+
+msgid "Open initiatives you are supporting which has been updated their draft:"
+msgstr "Підтримані Вами відкриті Ініціативи, проекти яких було оновлено:"
+
+msgid "Show member history"
+msgstr "Показати історію учасника"
+
+msgid "Not a member"
+msgstr "Не Користувач"
+
+msgid "Member '#{member}'"
+msgstr "Користувач '#{member}'"
+
+msgid "Create new area"
+msgstr "Створити нову Тему"
+
+msgid "Admin"
+msgstr "Адміністратор"
+
+msgid "Cancel refuse of invitation"
+msgstr "Відмінити відмову від запрошення"
+
+msgid "Canceled (during verification due to revocation)"
+msgstr "Скасовано (відкликанням під час перевірки)"
+
+msgid "This initiative"
+msgstr "Ця ініціатива"
+
+msgid "Issue canceled"
+msgstr "Питання знято"
+
+msgid "Withdraw membership"
+msgstr "Відкликання членства"
+
+msgid "day [interval time left]"
+msgstr "день"
+
+msgid "A-Z"
+msgstr "А-Я"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "This member has rejected to become initiator of this initiative"
+msgstr "Учасник відхилив можливість стати Ініціатором цієї Ініціативи"
+
+msgid "Reset code is invalid!"
+msgstr "Код перевстановлення не дійсний"
+
+msgid "This member is already invited to become initiator of this initiative"
+msgstr "Учаснику вже запропоновано стати Ініціатором цієї Ініціативи"
+
+msgid "Resend activation email to '#{email}'"
+msgstr "Повторити повідомлення для активації адреси '#{email}'"
+
+msgid "Issue ##{id}"
+msgstr "Питання ##{id}"
+
+msgid "Interested"
+msgstr "Зацікавлений"
+
+msgid "Login name"
+msgstr "Логін"
+
+msgid "Set unit delegation"
+msgstr "Встановити Делегування для Спільноти"
+
+msgid "Not accepted yet"
+msgstr "Ще не прийнято"
+
+msgid "The initiators suggest to support the following initiative:"
+msgstr "Ініціатор пропонує підтримати наступну ініціативу:"
+
+msgid "You are supporter of this initiative via delegation"
+msgstr "Ви підтримуєте цю ініціативу делегуванням"
+
+msgid "Discussion starts soon"
+msgstr "Дискусія скоро почнеться"
+
+msgid "months [interval ago]"
+msgstr "місяця(ів)"
+
+msgid "Interest updated"
+msgstr "Інтерес оновлено"
+
+msgid "#{issues_to_vote_count} issue(s)"
+msgstr "#{issues_to_vote_count} Тем"
+
+msgid "Change your notification email address"
+msgstr "Змінити свій імейл для сповіщень"
+
+msgid "#{count} of them have an area delegation set"
+msgstr "#{count} з них мають налаштоване Делегування Тем"
+
+msgid "[event mail] URL: #{url}"
+msgstr " URL: #{url}"
+
+msgid "at least #{count} approvals"
+msgstr "принаймні #{count} Згод"
+
+msgid "Calculation"
+msgstr "Підрахунок"
+
+msgid "Cancel issue now"
+msgstr "Відмінити питання зараз"
+
+msgid "Membership removed"
+msgstr "Реєстрацію членства скасовано"
+
+msgid "Show member"
+msgstr "Показати користувача"
+
+msgid "Stylesheet URL"
+msgstr "Stylesheet URL"
+
+msgid "Hide filter details"
+msgstr "Приховати деталі фільтру"
+
+msgid "Edit areas"
+msgstr "Редагувати Теми"
+
+msgid "Voting time"
+msgstr "Час на голосування"
+
+msgid "Mobile phone"
+msgstr "Номер мобільного"
+
+msgid "Database download"
+msgstr "Завантаження бази данних"
+
+msgid "not yet"
+msgstr "ще ні"
+
+msgid "Any"
+msgstr "Будь-які"
+
+msgid "Proceed with registration"
+msgstr "Продовжити реєстрацію"
+
+msgid "Abstention"
+msgstr "Утриматись"
+
+msgid "Change your password"
+msgstr "Змінити свій пароль"
+
+msgid "Issue"
+msgstr "Питання"
+
+msgid "Revoked at"
+msgstr "Відкликано в/о"
+
+msgid "#{count} in discussion"
+msgstr "#{count} обговорюються"
+
+msgid "Abandon unit delegation for this area"
+msgstr "Скасувати Делегування Спільноти до цієї Теми"
+
+msgid "This service is provided using the following software components:"
+msgstr "Цей сервіс надається з використанням наступного програмного забезпечення:"
+
+msgid "About site"
+msgstr "Про цей ресурс"
+
+msgid "Access level"
+msgstr "Рівень доступу"
+
+msgid "Finished (without winner)"
+msgstr "Завершено (без переможця)"
+
+msgid "Request email with login name"
+msgstr "Запитати e-mail з іменем Користувача (login name)"
+
+msgid "External posts"
+msgstr "Зовнішні повідомлення"
+
+msgid "Accept invitation"
+msgstr "Прийняти запрошення"
+
+msgid "So I'm"
+msgstr "Тому я"
+
+msgid "History"
+msgstr "Історія"
+
+msgid "Lock member?"
+msgstr "Блокувати Користувача?"
+
+msgid "years [interval]"
+msgstr "роки(ів)"
+
+msgid "Error while converting image. Please note, that only JPG files are supported!"
+msgstr "Сталася помилка при конвертуванні зображення. Зверніть увагу, підтримується лише JPG формат."
+
+msgid "Issue ID"
+msgstr "Питання ID"
+
+msgid "This member is locked"
+msgstr "Учасник заблокований"
+
+msgid "No delegation"
+msgstr "Без делегування"
+
+msgid "Content"
+msgstr "Зміст"
+
+msgid "Organizational unit"
+msgstr "Організаційна Спільнота"
+
+msgid "This name is too short!"
+msgstr "Це ім'я дуже коротке!"
+
+msgid "I consider suggestion as"
+msgstr "Я вважаю що пропозицію"
+
+msgid "Finish voting"
+msgstr "Завершити голосування"
+
+msgid "Admission time"
+msgstr "Час прийняття"
+
+msgid "Please decide for each delegation to confirm or to revoke it!"
+msgstr "Будь ласка підтвердьте або відкликайте кожне Делегування!"
+
+msgid "Eligible voters"
+msgstr "З правом голосу"
+
+msgid "implemented"
+msgstr "реалізовано"
+
+msgid "Public administrative notice:"
+msgstr "Публічне адміністративне сповіщення:"
+
+msgid "Show areas in use"
+msgstr "Показати Теми в користуванні"
+
+msgid "Current votings in areas you are member of and issues you are interested in:"
+msgstr "Поточні голосування у Темах, де ви є Учасником та Питання що Вас цікавлять:"
+
+msgid "Saved contacts"
+msgstr "Збережені Контакти"
+
+msgid "email"
+msgstr "e-mail"
+
+msgid "One step back"
+msgstr "На крок назад"
+
+msgid "delegated to"
+msgstr "делеговано"
+
+msgid "Issue reached next phase"
+msgstr "Питання досягло наступної фази"
+
+msgid "days [interval time left]"
+msgstr "днів"
+
+msgid "Your support has been updated to the latest draft"
+msgstr "Ваша підтримка була оновлена до останньої версії Проекту"
+
+msgid "Notification settings"
+msgstr "Налаштування сповіщень"
+
+msgid "You didn't set the level of notifications you like to receive"
+msgstr "Ви не встановили рівень повідомлень, які б Ви хотіли отримувати"
+
+msgid "Admin?"
+msgstr "Адміністратор?"
+
+msgid "Hello\n\n"
+msgstr "Вітаємо\n\n"
+
+msgid "Hide this help message"
+msgstr "Сховати цю підказку"
+
+msgid "year [interval ago]"
+msgstr "рік"
+
+msgid "Title (80 chars max)"
+msgstr "Назва (до 80 символів)"
+
+msgid "Discussion time"
+msgstr "Час на дискусію"
+
+msgid "Participate in this area"
+msgstr "Долучитись до цієї Теми"
+
+msgid "My areas and issues"
+msgstr "Мої Теми та Питання"
+
+msgid "Direct and by delegation"
+msgstr "Напряму та делегуванням"
+
+msgid "No supporters (before begin of voting)"
+msgstr "Прихильники відсутні (перед голосуванням)"
+
+msgid "Not voted"
+msgstr "Не проголосовано"

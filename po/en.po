@@ -1,0 +1,3004 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#{closed_ago} ago"
+msgstr ""
+
+msgid "#{count} Neutral"
+msgstr ""
+
+msgid "#{count} No"
+msgstr ""
+
+msgid "#{count} Yes, alternative choice"
+msgstr ""
+
+msgid "#{count} Yes, first choice"
+msgstr ""
+
+msgid "#{count} canceled"
+msgstr ""
+
+msgid "#{count} finished"
+msgstr ""
+
+msgid "#{count} in discussion"
+msgstr ""
+
+msgid "#{count} in verification"
+msgstr ""
+
+msgid "#{count} in voting"
+msgstr ""
+
+msgid "#{count} matching issues found"
+msgstr ""
+
+msgid "#{count} matching members found"
+msgstr ""
+
+msgid "#{count} more areas in this unit"
+msgstr ""
+
+msgid "#{count} new"
+msgstr ""
+
+msgid "#{count} of them have an area delegation set"
+msgstr ""
+
+msgid "#{count} of your outgoing delegation(s) are broken"
+msgstr ""
+
+msgid "#{count} supporter"
+msgstr ""
+
+msgid "#{duration}"
+msgstr ""
+
+msgid "#{interested_issues_to_vote_count} issue(s) you are interested in"
+msgstr ""
+
+msgid "#{interval_text} [interval]"
+msgstr "#{interval_text}"
+
+msgid "#{interval_text} ago"
+msgstr ""
+
+msgid "#{interval_text} left"
+msgstr ""
+
+msgid "#{interval} ago"
+msgstr ""
+
+msgid "#{issues_to_vote_count} issue(s)"
+msgstr ""
+
+msgid "#{issue} is in voting"
+msgstr ""
+
+msgid "#{name}\n\n"
+msgstr ""
+
+msgid "#{number} Image(s) has been deleted"
+msgstr ""
+
+msgid "#{number} Image(s) has been updated"
+msgstr ""
+
+msgid "#{percentage}%"
+msgstr ""
+
+msgid "#{policy_name} ##{issue_id}"
+msgstr ""
+
+msgid "#{policy} ##{id}"
+msgstr ""
+
+msgid "#{result}: #{yes_count} Yes (#{yes_percent}), #{no_count} No (#{no_percent}), #{neutral_count} Abstention (#{neutral_percent})"
+msgstr ""
+
+msgid "#{result}: No votes (0)"
+msgstr ""
+
+msgid "(+ #{count} potential)"
+msgstr ""
+
+msgid "(1) Admission"
+msgstr ""
+
+msgid "(1) Admission phase"
+msgstr ""
+
+msgid "(2) Discussion"
+msgstr ""
+
+msgid "(2) Discussion phase"
+msgstr ""
+
+msgid "(3) Verification"
+msgstr ""
+
+msgid "(3) Verification phase"
+msgstr ""
+
+msgid "(4) Voting"
+msgstr ""
+
+msgid "(4) Voting phase"
+msgstr ""
+
+msgid "(5) Result"
+msgstr ""
+
+msgid "(invited)"
+msgstr ""
+
+msgid "(new window)"
+msgstr ""
+
+msgid "+ #{weight}"
+msgstr ""
+
+msgid "+ add new organizational unit"
+msgstr ""
+
+msgid "+ add new subject area"
+msgstr ""
+
+msgid "+getElementById("
+msgstr ""
+
+msgid "1 matching issue found"
+msgstr ""
+
+msgid "1 matching member found"
+msgstr ""
+
+msgid "4 phases of a decision"
+msgstr ""
+
+msgid "A short title (80 chars max)"
+msgstr ""
+
+msgid "API key has been created"
+msgstr ""
+
+msgid "API key has been deleted"
+msgstr ""
+
+msgid "Abandon global delegation for this area"
+msgstr ""
+
+msgid "Abandon unit and area delegations for this issue"
+msgstr ""
+
+msgid "Abandon unit delegation"
+msgstr ""
+
+msgid "Abandon unit delegation for this area"
+msgstr ""
+
+msgid "About site"
+msgstr ""
+
+msgid "Abstention"
+msgstr ""
+
+msgid "Abstention [many entries]"
+msgstr "Abstention"
+
+msgid "Abstention [single entry]"
+msgstr "Abstention"
+
+msgid "Accepted at"
+msgstr ""
+
+msgid "Account history"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Active?"
+msgstr ""
+
+msgid "Add a new competing initiative to issue"
+msgstr ""
+
+msgid "Add a new suggestion for improvement"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Admin?"
+msgstr ""
+
+msgid "Administrative notice:"
+msgstr ""
+
+msgid "Admission"
+msgstr ""
+
+msgid "Admission time"
+msgstr ""
+
+msgid "Admitted"
+msgstr ""
+
+msgid "All areas in my units"
+msgstr ""
+
+msgid "All fields are optional. Please enter only data which should be published."
+msgstr ""
+
+msgid "All initiatives failed 2nd quorum"
+msgstr ""
+
+msgid "All units"
+msgstr ""
+
+msgid "Allowed policies"
+msgstr ""
+
+msgid "Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"
+msgstr ""
+
+msgid "Apply global or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"
+msgstr ""
+
+msgid "Apply unit delegation for this area (Currently: #{delegate_name} [#{scope}])"
+msgstr ""
+
+msgid "Apply unit or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"
+msgstr ""
+
+msgid "Approval (#th preference) [many entries]"
+msgstr "Approval (#th preference)"
+
+msgid "Approval (#th preference) [single entry]"
+msgstr "Approval (#th preference)"
+
+msgid "Approval (first preference) [many entries]"
+msgstr "Approval (first preference)"
+
+msgid "Approval (first preference) [single entry]"
+msgstr "Approval (first preference)"
+
+msgid "Approval (second preference) [many entries]"
+msgstr "Approval (second preference)"
+
+msgid "Approval (second preference) [single entry]"
+msgstr "Approval (second preference)"
+
+msgid "Approval (third preference) [many entries]"
+msgstr "Approval (third preference)"
+
+msgid "Approval (third preference) [single entry]"
+msgstr "Approval (third preference)"
+
+msgid "Approval [many entries]"
+msgstr "Approval"
+
+msgid "Approval [single entry]"
+msgstr "Approval"
+
+msgid "Approved"
+msgstr ""
+
+msgid "Are you aware that revoking an initiative is irrevocable?"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Area delegation"
+msgstr ""
+
+msgid "Area list of '#{unit_name}'"
+msgstr ""
+
+msgid "As long as you are interested in this issue yourself, the delegation is suspended for this issue, but it will be applied again in the voting phase unless you vote yourself."
+msgstr ""
+
+msgid "As soon as one initiative of this issue reaches the 1st quorum of #{quorum} support, the issue will proceed to discussion phase."
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Available policies"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Ballot of '#{member_name}'"
+msgstr ""
+
+msgid "Become a member"
+msgstr ""
+
+msgid "Before creating a new issue, please check any existant issues before, if the topic is already in discussion."
+msgstr ""
+
+msgid "Best not admitted initiative"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Broken delegations"
+msgstr ""
+
+msgid "Calculation"
+msgstr ""
+
+msgid "Can't remove last initiator"
+msgstr ""
+
+msgid "Can't send confirmation email"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel [nullify]"
+msgstr "Cancel"
+
+msgid "Cancel issue"
+msgstr ""
+
+msgid "Cancel issue ##{id}"
+msgstr ""
+
+msgid "Canceled by administrative intervention"
+msgstr ""
+
+msgid "Change email address"
+msgstr ""
+
+msgid "Change order"
+msgstr ""
+
+msgid "Check and enter personal data"
+msgstr ""
+
+msgid "Check your #{scope} delegation to '#{trustee_name}' for '#{context}'"
+msgstr ""
+
+msgid "Check your delegations!"
+msgstr ""
+
+msgid "Check your outgoing delegations"
+msgstr ""
+
+msgid "Choose a formatting engine:"
+msgstr ""
+
+msgid "Choose a member to invite"
+msgstr ""
+
+msgid "Choose an initiator to remove"
+msgstr ""
+
+msgid "Choose member"
+msgstr ""
+
+msgid "Choose timing"
+msgstr ""
+
+msgid "Choose your delegatee"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Closed issues"
+msgstr ""
+
+msgid "Closed user group"
+msgstr ""
+
+msgid "Collective opinion of supporters"
+msgstr ""
+
+msgid "Collective rating"
+msgstr ""
+
+msgid "Compare"
+msgstr ""
+
+msgid "Comparision of revisions #{id1} and #{id2}"
+msgstr ""
+
+msgid "Competing initiatives"
+msgstr ""
+
+msgid "Competing initiatives failed the 2nd quorum (#{num}/#{den}):"
+msgstr ""
+
+msgid "Competing initiatives in pairwise comparison to best initiative:"
+msgstr ""
+
+msgid "Competing initiatives in pairwise comparison to winner:"
+msgstr ""
+
+msgid "Configure notifications now"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm notification address"
+msgstr ""
+
+msgid "Confirm your email address"
+msgstr ""
+
+msgid "Confirmation code"
+msgstr ""
+
+msgid "Confirmation code invalid!"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Create a new issue"
+msgstr ""
+
+msgid "Create new area"
+msgstr ""
+
+msgid "Create new policy"
+msgstr ""
+
+msgid "Create new unit"
+msgstr ""
+
+msgid "Created at"
+msgstr ""
+
+msgid "Current delegatee"
+msgstr ""
+
+msgid "Current name"
+msgstr ""
+
+msgid "Current phase is already closed."
+msgstr ""
+
+msgid "Current status"
+msgstr ""
+
+msgid "Current unit and area delegations need confirmation"
+msgstr ""
+
+msgid "Current votings in areas you are member of and issues you are interested in:"
+msgstr ""
+
+msgid "Currently no API key is set."
+msgstr ""
+
+msgid "Currently required"
+msgstr ""
+
+msgid "Currently this is the only initiative in this issue, because nobody started a competing initiative (yet)."
+msgstr ""
+
+msgid "Date format is not valid. Please use following format: YYYY-MM-DD"
+msgstr ""
+
+msgid "Deactivate member"
+msgstr ""
+
+msgid "Default Policy"
+msgstr ""
+
+msgid "Degree"
+msgstr ""
+
+msgid "Delegate area"
+msgstr ""
+
+msgid "Delegate issue"
+msgstr ""
+
+msgid "Delegate unit"
+msgstr ""
+
+msgid "Delegation abandoned"
+msgstr ""
+
+msgid "Delegation turned off for area"
+msgstr ""
+
+msgid "Delegation turned off for issue"
+msgstr ""
+
+msgid "Delegations"
+msgstr ""
+
+msgid "Describe how the proposal and/or the reasons of the initiative could be improved"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Developer settings"
+msgstr ""
+
+msgid "Did the initiator implement this suggestion?"
+msgstr ""
+
+msgid "Direct majority"
+msgstr ""
+
+msgid "Direct majority denominator"
+msgstr ""
+
+msgid "Direct majority non negative"
+msgstr ""
+
+msgid "Direct majority numerator"
+msgstr ""
+
+msgid "Direct majority positive"
+msgstr ""
+
+msgid "Disapproval (prefer to last block) [many entries]"
+msgstr "Disapproval (prefer to last block)"
+
+msgid "Disapproval (prefer to last block) [single entry]"
+msgstr "Disapproval (prefer to last block)"
+
+msgid "Disapproval (prefer to lower block) [many entries]"
+msgstr "Disapproval (prefer to lower block)"
+
+msgid "Disapproval (prefer to lower block) [single entry]"
+msgstr "Disapproval (prefer to lower block)"
+
+msgid "Disapproval (prefer to lower blocks) [many entries]"
+msgstr "Disapproval (prefer to lower blocks)"
+
+msgid "Disapproval (prefer to lower blocks) [single entry]"
+msgstr "Disapproval (prefer to lower blocks)"
+
+msgid "Disapproval [many entries]"
+msgstr "Disapproval"
+
+msgid "Disapproval [single entry]"
+msgstr "Disapproval"
+
+msgid "Disapproved"
+msgstr ""
+
+msgid "Discard my vote"
+msgstr ""
+
+msgid "Discussion"
+msgstr ""
+
+msgid "Discussion #{time_info}"
+msgstr ""
+
+msgid "Discussion URL"
+msgstr ""
+
+msgid "Discussion started"
+msgstr ""
+
+msgid "Discussion time"
+msgstr ""
+
+msgid "Do you really want to irrevocably deactive this member?"
+msgstr ""
+
+msgid "Do you want to suggest to support another initiative?"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download database export"
+msgstr ""
+
+msgid "Download documents"
+msgstr ""
+
+msgid "Draft history"
+msgstr ""
+
+msgid "Draft revision #{id}"
+msgstr ""
+
+msgid "During the discussion phase, the issue is debated on while the initiators improve the proposals and reasons in their initiatives. Supporters of initiatives can write and rate suggestions for improvement."
+msgstr ""
+
+msgid "During the verification phase, existing initiatives cannot be changed anymore. Initiatives need to pass the 2nd quorum of #{quorum} at end of verification phase to become admitted for voting."
+msgstr ""
+
+msgid "During the voting phase, votes for all admitted initiatives in this issue can be cast. The final result will be calculated as soon as this phase ends."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit again"
+msgstr ""
+
+msgid "Edit areas"
+msgstr ""
+
+msgid "Edit initiative"
+msgstr ""
+
+msgid "Edit profile"
+msgstr ""
+
+msgid "Edit voting comment"
+msgstr ""
+
+msgid "Edit your profile data"
+msgstr ""
+
+msgid "Eligible as winner"
+msgstr ""
+
+msgid "Eligible members (#{count})"
+msgstr ""
+
+msgid "Eligible voters"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "Email address confirmation"
+msgstr ""
+
+msgid "Email address for notifications"
+msgstr ""
+
+msgid "Email address is confirmed now"
+msgstr ""
+
+msgid "Email address too short!"
+msgstr ""
+
+msgid "Email confirmation request"
+msgstr ""
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Enter a new email address:"
+msgstr ""
+
+msgid "Enter a new login name"
+msgstr ""
+
+msgid "Enter a new password:"
+msgstr ""
+
+msgid "Enter a new screen name:"
+msgstr ""
+
+msgid "Enter a title for your initiative (max. 140 chars):"
+msgstr ""
+
+msgid "Enter your current password:"
+msgstr ""
+
+msgid "Enter your new password again please:"
+msgstr ""
+
+msgid "Enter your proposal and/or reasons"
+msgstr ""
+
+msgid "Enter your proposal and/or reasons:"
+msgstr ""
+
+msgid "Error while converting image. Please note, that only JPG files are supported!"
+msgstr ""
+
+msgid "Error while updating member, database reported:<br /><br /> (#{errormessage})"
+msgstr ""
+
+msgid "Etherpad authentication failed"
+msgstr ""
+
+msgid "Event #{id} -> #{num} members"
+msgstr ""
+
+msgid "External memberships"
+msgstr ""
+
+msgid "External posts"
+msgstr ""
+
+msgid "Failed  #{sign}#{num}/#{den}"
+msgstr ""
+
+msgid "Failed 1st quorum"
+msgstr ""
+
+msgid "Finish delegation check"
+msgstr ""
+
+msgid "Finish voting"
+msgstr ""
+
+msgid "Finished with winner"
+msgstr ""
+
+msgid "For numbered items use a digit (e.g. 1) followed by a dot (.) and a space"
+msgstr ""
+
+msgid "For which issue phases do you like to receive notification emails?"
+msgstr ""
+
+msgid "Forgot login name?"
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "Formatting help"
+msgstr ""
+
+msgid "Free timing:"
+msgstr ""
+
+msgid "Frozen"
+msgstr ""
+
+msgid "Fully frozen at"
+msgstr ""
+
+msgid "Generate API key"
+msgstr ""
+
+msgid "Global delegation"
+msgstr ""
+
+msgid "Go back to home page"
+msgstr ""
+
+msgid "Half frozen at"
+msgstr ""
+
+msgid "Headlines"
+msgstr ""
+
+msgid "Hello\n\n"
+msgstr ""
+
+msgid "Hello "
+msgstr ""
+
+msgid "Hello,\n\n"
+msgstr ""
+
+msgid "Help #{id}"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Hide active units"
+msgstr ""
+
+msgid "Hint"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "How important is your suggestions for you?"
+msgstr ""
+
+msgid "How this member voted"
+msgstr ""
+
+msgid "I do not like to hear from this member"
+msgstr ""
+
+msgid "I do not like to receive notifications by email"
+msgstr ""
+
+msgid "I don't like any of the initiative in this issue and I want to add my opinion or counter proposal"
+msgstr ""
+
+msgid "I don't like this initiative and I want to add my opinion or counter proposal"
+msgstr ""
+
+msgid "I don't like to vote this issue (myself):"
+msgstr ""
+
+msgid "I like this initiative and I want to support it"
+msgstr ""
+
+msgid "I like to change/revoke my vote:"
+msgstr ""
+
+msgid "I like to receive notifications"
+msgstr ""
+
+msgid "I like to vote on this issue:"
+msgstr ""
+
+msgid "I understand, that this is not revocable"
+msgstr ""
+
+msgid "I want to change account settings"
+msgstr ""
+
+msgid "I want to change the interface language"
+msgstr ""
+
+msgid "I want to customize my profile"
+msgstr ""
+
+msgid "I want to deactive this member irrevocably"
+msgstr ""
+
+msgid "I want to delegate my vote"
+msgstr ""
+
+msgid "I want to delegate this issue"
+msgstr ""
+
+msgid "I want to delegate this organizational unit"
+msgstr ""
+
+msgid "I want to delegate this subject area"
+msgstr ""
+
+msgid "I want to download all data"
+msgstr ""
+
+msgid "I want to improve this initiative"
+msgstr ""
+
+msgid "I want to know whats going on"
+msgstr ""
+
+msgid "I want to learn more about LiquidFeedback"
+msgstr ""
+
+msgid "I want to logout"
+msgstr ""
+
+msgid "I want to manage my saved contacts"
+msgstr ""
+
+msgid "I want to participate in this issue"
+msgstr ""
+
+msgid "I want to participate in this subject area"
+msgstr ""
+
+msgid "I want to save this member as contact (i.e. to use as delegatee)"
+msgstr ""
+
+msgid "I want to start a new initiative"
+msgstr ""
+
+msgid "I want to stay informed"
+msgstr ""
+
+msgid "I want to take a look at other organizational units"
+msgstr ""
+
+msgid "I'm interested in this issue"
+msgstr ""
+
+msgid "I'm supporting this initiative"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Identification"
+msgstr ""
+
+msgid "If this link is not working, please open following url in your web browser:\n\n"
+msgstr ""
+
+msgid "If you cannot find any appropriate existing issue, "
+msgstr ""
+
+msgid "Ignore initiative"
+msgstr ""
+
+msgid "Implicitly admitted"
+msgstr ""
+
+msgid "Incoming delegations"
+msgstr ""
+
+msgid "Incoming delegations for '#{member_name}'"
+msgstr ""
+
+msgid "Incoming delegations for '#{member}'"
+msgstr ""
+
+msgid "Indent sub items with spaces"
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Indirect majority"
+msgstr ""
+
+msgid "Indirect majority denominator"
+msgstr ""
+
+msgid "Indirect majority non negative"
+msgstr ""
+
+msgid "Indirect majority numerator"
+msgstr ""
+
+msgid "Indirect majority positive"
+msgstr ""
+
+msgid "Individual ratings"
+msgstr ""
+
+msgid "Initiative is revoked now"
+msgstr ""
+
+msgid "Initiative not admitted"
+msgstr ""
+
+msgid "Initiative quorum"
+msgstr ""
+
+msgid "Initiative quorum denominator"
+msgstr ""
+
+msgid "Initiative quorum numerator"
+msgstr ""
+
+msgid "Initiative revoked"
+msgstr ""
+
+msgid "Initiative successfully created"
+msgstr ""
+
+msgid "Initiative successfully updated"
+msgstr ""
+
+msgid "Initiative: "
+msgstr ""
+
+msgid "Initiatives"
+msgstr ""
+
+msgid "Initiatives and issues"
+msgstr ""
+
+msgid "Initiatives created by this member"
+msgstr ""
+
+msgid "Initiatives that invited you to become initiator:"
+msgstr ""
+
+msgid "Initiator invites"
+msgstr ""
+
+msgid "Initiators"
+msgstr ""
+
+msgid "Interest already removed"
+msgstr ""
+
+msgid "Interest removed"
+msgstr ""
+
+msgid "Interest updated"
+msgstr ""
+
+msgid "Interested members"
+msgstr ""
+
+msgid "Internal posts"
+msgstr ""
+
+msgid "Interval format:"
+msgstr ""
+
+msgid "Introduction"
+msgstr ""
+
+msgid "Invalid login name or password!"
+msgstr ""
+
+msgid "Invalid timing"
+msgstr ""
+
+msgid "Invitation has been refused"
+msgstr ""
+
+msgid "Invitation to LiquidFeedback"
+msgstr ""
+
+msgid "Invite an initiator to initiative"
+msgstr ""
+
+msgid "Invite code"
+msgstr ""
+
+msgid "Invite member"
+msgstr ""
+
+msgid "Invited"
+msgstr ""
+
+msgid "Issue #"
+msgstr ""
+
+msgid "Issue ##{id}"
+msgstr ""
+
+msgid "Issue ##{issue_id}: #{initiative_name}"
+msgstr ""
+
+msgid "Issue delegation"
+msgstr ""
+
+msgid "Issue has been canceled"
+msgstr ""
+
+msgid "Issue quorum"
+msgstr ""
+
+msgid "Issue quorum denominator"
+msgstr ""
+
+msgid "Issue quorum numerator"
+msgstr ""
+
+msgid "Issue reached next phase"
+msgstr ""
+
+msgid "Issues in admission phase"
+msgstr ""
+
+msgid "Issues in discussion phase"
+msgstr ""
+
+msgid "Issues in verification phase"
+msgstr ""
+
+msgid "Issues in voting phase"
+msgstr ""
+
+msgid "Issues:"
+msgstr ""
+
+msgid "JavaScript is disabled or not available."
+msgstr ""
+
+msgid "Last activity (updated daily)"
+msgstr ""
+
+msgid "Last counting:"
+msgstr ""
+
+msgid "Latest approved issue"
+msgstr ""
+
+msgid "Latest disapproved issue"
+msgstr ""
+
+msgid "Latest events"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "LiquidFeedback"
+msgstr ""
+
+msgid "Lists"
+msgstr ""
+
+msgid "Lists must be preceeded and followed by at least one blank line"
+msgstr ""
+
+msgid "Lock member?"
+msgstr ""
+
+msgid "Locked?"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login name"
+msgstr ""
+
+msgid "Login name request"
+msgstr ""
+
+msgid "Login-Name: "
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logout successful"
+msgstr ""
+
+msgid "Make your choice by placing the initiatives"
+msgstr ""
+
+msgid "Manage system settings"
+msgstr ""
+
+msgid "Member"
+msgstr ""
+
+msgid "Member has been removed from initiators"
+msgstr ""
+
+msgid "Member has been removed from your contacts"
+msgstr ""
+
+msgid "Member has not approved latest draft"
+msgstr ""
+
+msgid "Member inactive?"
+msgstr ""
+
+msgid "Member is already saved in your contacts!"
+msgstr ""
+
+msgid "Member is not participating in any of the #{count} areas in this unit"
+msgstr ""
+
+msgid "Member is not participating in the only area of the unit"
+msgstr ""
+
+msgid "Member is now invited to be initiator"
+msgstr ""
+
+msgid "Member list"
+msgstr ""
+
+msgid "Member menu"
+msgstr ""
+
+msgid "Member name"
+msgstr ""
+
+msgid "Member successfully deactivated"
+msgstr ""
+
+msgid "Member successfully registered"
+msgstr ""
+
+msgid "Member successfully updated"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Memberships"
+msgstr ""
+
+msgid "Missing help text: #{id}.#{lang}.txt"
+msgstr ""
+
+msgid "Mobile phone"
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "My areas"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New area"
+msgstr ""
+
+msgid "New draft for initiative '#{initiative_name}'"
+msgstr ""
+
+msgid "New drafts for #{count} initiative(s) you are supporting"
+msgstr ""
+
+msgid "New initiative"
+msgstr ""
+
+msgid "New initiative draft"
+msgstr ""
+
+msgid "New issue"
+msgstr ""
+
+msgid "New member"
+msgstr ""
+
+msgid "New organizational unit"
+msgstr ""
+
+msgid "New passwords does not match."
+msgstr ""
+
+msgid "New passwords is too short."
+msgstr ""
+
+msgid "New policy"
+msgstr ""
+
+msgid "New suggestion"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No (not yet)"
+msgstr ""
+
+msgid "No admission needed"
+msgstr ""
+
+msgid "No changes to your images were made"
+msgstr ""
+
+msgid "No default"
+msgstr ""
+
+msgid "No delegation"
+msgstr ""
+
+msgid "No matching issues found"
+msgstr ""
+
+msgid "No matching members found"
+msgstr ""
+
+msgid "No more events available"
+msgstr ""
+
+msgid "No multistage majority"
+msgstr ""
+
+msgid "No published contacts"
+msgstr ""
+
+msgid "No results for this selection"
+msgstr ""
+
+msgid "No reverse beat path"
+msgstr ""
+
+msgid "No suggestions"
+msgstr ""
+
+msgid "No suggestions yet"
+msgstr ""
+
+msgid "Not a member"
+msgstr ""
+
+msgid "Not voted issues"
+msgstr ""
+
+msgid "Notification address unconfirmed"
+msgstr ""
+
+msgid "Notification email"
+msgstr ""
+
+msgid "Notification level not set yet"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Notifications are only send to you about events in the subject areas you subscribed, the issues you are interested in and the initiatives you are supporting."
+msgstr ""
+
+msgid "Number of incoming delegations, follow link to see more details"
+msgstr ""
+
+msgid "Old password is wrong"
+msgstr ""
+
+msgid "On that page please enter the confirmation code:\n\n"
+msgstr ""
+
+msgid "On that page please enter the invite key:\n\n"
+msgstr ""
+
+msgid "On that page please enter the reset code:\n\n"
+msgstr ""
+
+msgid "One issue"
+msgstr ""
+
+msgid "One issue you are interested in"
+msgstr ""
+
+msgid "One more area in this unit"
+msgstr ""
+
+msgid "One of them have an area delegation set"
+msgstr ""
+
+msgid "Only for issues reaching the discussion phase"
+msgstr ""
+
+msgid "Only for issues reaching the verification phase"
+msgstr ""
+
+msgid "Only for issues reaching the voting phase"
+msgstr ""
+
+msgid "Open initiatives you are supporting which has been updated their draft:"
+msgstr ""
+
+msgid "Open issues"
+msgstr ""
+
+msgid "Open the appropriate subject area where your issue fits in and follow the instruction on that page."
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Organizational unit"
+msgstr ""
+
+msgid "Organizational units"
+msgstr ""
+
+msgid "Organizational units and subject areas"
+msgstr ""
+
+msgid "Other failures"
+msgstr ""
+
+msgid "Outgoing delegations"
+msgstr ""
+
+msgid "Page not found"
+msgstr ""
+
+msgid "Paragraphs"
+msgstr ""
+
+msgid "Parent unit"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password has been reset successfully"
+msgstr ""
+
+msgid "Password reset request"
+msgstr ""
+
+msgid "Passwords don't match!"
+msgstr ""
+
+msgid "Passwords must consist of at least 8 characters!"
+msgstr ""
+
+msgid "Personal information"
+msgstr ""
+
+msgid "Phase durations"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Please choose a login name. This name will not be shown to others and is used only by you to login into the system. The login name is case sensitive."
+msgstr ""
+
+msgid "Please choose a member"
+msgstr ""
+
+msgid "Please choose a name, i.e. your real name or your nick name. This name will be shown to others to identify you."
+msgstr ""
+
+msgid "Please choose a password and enter it twice. The password is case sensitive."
+msgstr ""
+
+msgid "Please choose a policy"
+msgstr ""
+
+msgid "Please choose a policy for the new issue:"
+msgstr ""
+
+msgid "Please choose an area name"
+msgstr ""
+
+msgid "Please choose two different versions of the draft to compare"
+msgstr ""
+
+msgid "Please confirm your email address"
+msgstr ""
+
+msgid "Please confirm your email address by clicking the following link:\n\n"
+msgstr ""
+
+msgid "Please decide for each delegation to confirm or to revoke it!"
+msgstr ""
+
+msgid "Please enter a meaningful title for your initiative!"
+msgstr ""
+
+msgid "Please enter the email reset code you have received:"
+msgstr ""
+
+msgid "Please enter the invite code you've received"
+msgstr ""
+
+msgid "Please enter your email address. This address will be used for automatic notifications (if you request them) and in case you've lost your password. This address will not be published. After registration you will receive an email with a confirmation link."
+msgstr ""
+
+msgid "Please enter your email address. You will receive an email with your login name."
+msgstr ""
+
+msgid "Please enter your login name. You will receive an email with a link to reset your password."
+msgstr ""
+
+msgid "Please enter your new password twice."
+msgstr ""
+
+msgid "Please select your preferred notification level"
+msgstr ""
+
+msgid "Policies"
+msgstr ""
+
+msgid "Policy"
+msgstr ""
+
+msgid "Policy '#{name}'"
+msgstr ""
+
+msgid "Policy list"
+msgstr ""
+
+msgid "Polling mode"
+msgstr ""
+
+msgid "Population"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Preference comparison"
+msgstr ""
+
+msgid "Preference voting"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Preview of delegation"
+msgstr ""
+
+msgid "Preview of voting ballot"
+msgstr ""
+
+msgid "Private contacts"
+msgstr ""
+
+msgid "Profession"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Publish now"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Published contacts"
+msgstr ""
+
+msgid "Put **double asterisks** around a phrase to make it bold"
+msgstr ""
+
+msgid "Put *asterisks* or around a phrase to make it italic"
+msgstr ""
+
+msgid "Put a hypen (-) or asterisk (*) followed by a space in front of each item"
+msgstr ""
+
+msgid "Quorums"
+msgstr ""
+
+msgid "Reached #{sign}#{num}/#{den}"
+msgstr ""
+
+msgid "Read and accept the terms and choose a password"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "Real name"
+msgstr ""
+
+msgid "Recover login name"
+msgstr ""
+
+msgid "Register new member"
+msgstr ""
+
+msgid "Registered members (#{count})"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Registration (step 1 of 3: Invite code)"
+msgstr ""
+
+msgid "Registration (step 2 of 3: Personal information)"
+msgstr ""
+
+msgid "Registration (step 3 of 3: Terms of use and password)"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Rejected (rank #{rank})"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove an initiator from initiative"
+msgstr ""
+
+msgid "Remove initiator"
+msgstr ""
+
+msgid "Rendered"
+msgstr ""
+
+msgid "Request email with login name"
+msgstr ""
+
+msgid "Request password reset link"
+msgstr ""
+
+msgid "Resend activation email to '#{email}'"
+msgstr ""
+
+msgid "Reset code"
+msgstr ""
+
+msgid "Reset code is invalid!"
+msgstr ""
+
+msgid "Reset password"
+msgstr ""
+
+msgid "Revoke initiative"
+msgstr ""
+
+msgid "Revoke now"
+msgstr ""
+
+msgid "Revoked (during admission)"
+msgstr ""
+
+msgid "Revoked (during discussion)"
+msgstr ""
+
+msgid "Revoked (during verification)"
+msgstr ""
+
+msgid "Revoked at"
+msgstr ""
+
+msgid "Rules of procedure"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save new password"
+msgstr ""
+
+msgid "Save voting comment"
+msgstr ""
+
+msgid "Saved contacts"
+msgstr ""
+
+msgid "Schulze rank"
+msgstr ""
+
+msgid "Screen name"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search results for: '#{search}'"
+msgstr ""
+
+msgid "Search term (only complete words)"
+msgstr ""
+
+msgid "Select a notification level"
+msgstr ""
+
+msgid "Select language \"#{langcode}\""
+msgstr ""
+
+msgid "Send invite?"
+msgstr ""
+
+msgid "Separate each paragraph with at least one blank line"
+msgstr ""
+
+msgid "Set URL"
+msgstr ""
+
+msgid "Set area delegation"
+msgstr ""
+
+msgid "Set issue delegation"
+msgstr ""
+
+msgid "Set unit delegation"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Should the initiator implement this suggestion?"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show all members"
+msgstr ""
+
+msgid "Show areas in use"
+msgstr ""
+
+msgid "Show areas not in use"
+msgstr ""
+
+msgid "Show full history"
+msgstr ""
+
+msgid "Show full member list"
+msgstr ""
+
+msgid "Show inactive units"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
+
+msgid "Show member"
+msgstr ""
+
+msgid "Show more and rate this"
+msgstr ""
+
+msgid "Show my voting ballot"
+msgstr ""
+
+msgid "Show older events"
+msgstr ""
+
+msgid "Show policies in use"
+msgstr ""
+
+msgid "Show policies not in use"
+msgstr ""
+
+msgid "Show profile"
+msgstr ""
+
+msgid "Show voting ballot"
+msgstr ""
+
+msgid "Sorry, but there is not confirmed email address for your account. Please contact the administrator or support."
+msgstr ""
+
+msgid "Sorry, but you are currently not invited"
+msgstr ""
+
+msgid "Sorry, you have reached your personal flood limit. Please be slower..."
+msgstr ""
+
+msgid "Sorry, your contingent for creating initiatives has been used up. Please try again later."
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Statement"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status quo: #{rank}"
+msgstr ""
+
+msgid "Strict direct majority"
+msgstr ""
+
+msgid "Strict indirect majority"
+msgstr ""
+
+msgid "Structured discussion"
+msgstr ""
+
+msgid "Stylesheet URL has been updated"
+msgstr ""
+
+msgid "Subject area subscribed"
+msgstr ""
+
+msgid "Subject areas"
+msgstr ""
+
+msgid "Subscribed members (#{count})"
+msgstr ""
+
+msgid "Subscription already removed"
+msgstr ""
+
+msgid "Subscription removed"
+msgstr ""
+
+msgid "Suggest no initiative"
+msgstr ""
+
+msgid "Suggestion"
+msgstr ""
+
+msgid "Suggestion currently implemented"
+msgstr ""
+
+msgid "Suggestion currently not implemented"
+msgstr ""
+
+msgid "Suggestion does not exist anymore"
+msgstr ""
+
+msgid "Suggestion for improvement #{id}"
+msgstr ""
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Suggestions for improvement (#{count})"
+msgstr ""
+
+msgid "Support this initiative"
+msgstr ""
+
+msgid "Syntax help"
+msgstr ""
+
+msgid "System administration"
+msgstr ""
+
+msgid "System settings"
+msgstr ""
+
+msgid "Take a look through the existing issues. Maybe someone else started a debate on your topic (and you can join it) or the topic has been decided already in the past."
+msgstr ""
+
+msgid "Tell others about this initiative:"
+msgstr ""
+
+msgid "Terms of use"
+msgstr ""
+
+msgid "The code you've entered is invalid"
+msgstr ""
+
+msgid "The draft of this initiative has been updated!"
+msgstr ""
+
+msgid "The drafts do not differ"
+msgstr ""
+
+msgid "The initiative draft has been updated again in the meanwhile, support not updated!"
+msgstr ""
+
+msgid "The initiative text has been updated"
+msgstr ""
+
+msgid "The initiators suggest to support the following initiative:"
+msgstr ""
+
+msgid "The title is the figurehead of your iniative. It should be short but meaningful! As others identifies your initiative by this title, you cannot change it later!"
+msgstr ""
+
+msgid "This delegation is suspended, because you voted yourself."
+msgstr ""
+
+msgid "This email address is too short!"
+msgstr ""
+
+msgid "This initiative"
+msgstr ""
+
+msgid "This initiative has been revoked at #{revoked} by:"
+msgstr ""
+
+msgid "This initiative has not been admitted! It failed the 2nd quorum of #{quorum}."
+msgstr ""
+
+msgid "This initiative is already revoked"
+msgstr ""
+
+msgid "This initiative is revoked"
+msgstr ""
+
+msgid "This invite key is connected with the following information:"
+msgstr ""
+
+msgid "This is the only initiative in this issue, because nobody started a competing initiative."
+msgstr ""
+
+msgid "This issue is already closed."
+msgstr ""
+
+msgid "This issue is already frozen."
+msgstr ""
+
+msgid "This issue is closed"
+msgstr ""
+
+msgid "This login is already taken, please choose another one!"
+msgstr ""
+
+msgid "This login is too short!"
+msgstr ""
+
+msgid "This member account has been created at #{created}"
+msgstr ""
+
+msgid "This member has rejected to become initiator of this initiative"
+msgstr ""
+
+msgid "This member is already initiator of this initiative"
+msgstr ""
+
+msgid "This member is already invited to become initiator of this initiative"
+msgstr ""
+
+msgid "This member is currently participating in this issue."
+msgstr ""
+
+msgid "This member is inactive"
+msgstr ""
+
+msgid "This member is locked"
+msgstr ""
+
+msgid "This member is participating, the remaining delegation chain is suspended during discussing."
+msgstr ""
+
+msgid "This name is already taken, please choose another one!"
+msgstr ""
+
+msgid "This name is too short!"
+msgstr ""
+
+msgid "This screen name is too short!"
+msgstr ""
+
+msgid "This service is provided by:"
+msgstr ""
+
+msgid "This service is provided using the following software components:"
+msgstr ""
+
+msgid "This suggestion has been meanwhile deleted"
+msgstr ""
+
+msgid "This title is really too short!"
+msgstr ""
+
+msgid "This title is too long!"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To create a competing initiative see below."
+msgstr ""
+
+msgid "Trustee has no voting right in this unit"
+msgstr ""
+
+msgid "Underline main headlines with ==="
+msgstr ""
+
+msgid "Underline sub headlines with ---"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit delegation"
+msgstr ""
+
+msgid "Unit list"
+msgstr ""
+
+msgid "Unknown author"
+msgstr ""
+
+msgid "Updated drafts"
+msgstr ""
+
+msgid "Upload avatar/photo"
+msgstr ""
+
+msgid "Use [Text](http://example.com/) for links"
+msgstr ""
+
+msgid "Use terms"
+msgstr ""
+
+msgid "Verification"
+msgstr ""
+
+msgid "Verification #{time_info}"
+msgstr ""
+
+msgid "Verification started"
+msgstr ""
+
+msgid "Verification time"
+msgstr ""
+
+msgid "Vote delegation"
+msgstr ""
+
+msgid "Voted no"
+msgstr ""
+
+msgid "Voted yes"
+msgstr ""
+
+msgid "Voters"
+msgstr ""
+
+msgid "Voting"
+msgstr ""
+
+msgid "Voting #{time_info}"
+msgstr ""
+
+msgid "Voting comment"
+msgstr ""
+
+msgid "Voting comment (last updated: #{timestamp})"
+msgstr ""
+
+msgid "Voting comment (optional)"
+msgstr ""
+
+msgid "Voting comment available"
+msgstr ""
+
+msgid "Voting for this issue has already begun."
+msgstr ""
+
+msgid "Voting has not started yet."
+msgstr ""
+
+msgid "Voting started"
+msgstr ""
+
+msgid "Voting time"
+msgstr ""
+
+msgid "We couldn't deliver a confirmation mail to this address. Please check entered email address."
+msgstr ""
+
+msgid "We have sent an email with activation link already in the last hour. Please try again later."
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "What can I do here?"
+msgstr ""
+
+msgid "What this member is currently supporting"
+msgstr ""
+
+msgid "Wiki engine"
+msgstr ""
+
+msgid "Wiki engine for statement"
+msgstr ""
+
+msgid "Withdraw"
+msgstr ""
+
+msgid "Withdraw membership"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yes, it's implemented"
+msgstr ""
+
+msgid "You already voted this issue"
+msgstr ""
+
+msgid "You are already initiator"
+msgstr ""
+
+msgid "You are already supporting the latest draft"
+msgstr ""
+
+msgid "You are currently not invited to any initiative."
+msgstr ""
+
+msgid "You are currently not supporting this initiative directly. By adding suggestions to this initiative you will automatically become a potential supporter."
+msgstr ""
+
+msgid "You are initiator of this initiative"
+msgstr ""
+
+msgid "You are interested in this issue"
+msgstr ""
+
+msgid "You are invited to #{count} initiative(s)"
+msgstr ""
+
+msgid "You are invited to LiquidFeedback. To register please click the following link:\n\n"
+msgstr ""
+
+msgid "You are invited to become initiator of '#{initiative_name}'"
+msgstr ""
+
+msgid "You are invited to become initiator of this initiative"
+msgstr ""
+
+msgid "You are member"
+msgstr ""
+
+msgid "You are not eligible to participate"
+msgstr ""
+
+msgid "You are not entitled to vote in this unit"
+msgstr ""
+
+msgid "You are not participating in any of the #{count} areas in this unit"
+msgstr ""
+
+msgid "You are not participating in the only area of the unit"
+msgstr ""
+
+msgid "You are now initiator of this initiative"
+msgstr ""
+
+msgid "You are potential supporter"
+msgstr ""
+
+msgid "You are subscribed for this subject area"
+msgstr ""
+
+msgid "You are supporter"
+msgstr ""
+
+msgid "You are supporting this initiative"
+msgstr ""
+
+msgid "You blocked this member (i.e. you will not be notified about this members actions)"
+msgstr ""
+
+msgid "You can change your email address only once per hour. Please try again later."
+msgstr ""
+
+msgid "You can change your text again anytime during admission and discussion phase"
+msgstr ""
+
+msgid "You can choose only members which you have been saved as contact before."
+msgstr ""
+
+msgid "You can't suggest the initiative you are revoking"
+msgstr ""
+
+msgid "You cannot change your text again later, because this issue is already in verfication phase!"
+msgstr ""
+
+msgid "You delegated this issue"
+msgstr ""
+
+msgid "You delegated this organizational unit"
+msgstr ""
+
+msgid "You delegated this subject area"
+msgstr ""
+
+msgid "You delegated this unit"
+msgstr ""
+
+msgid "You didn't confirm your email address '#{email}' within 7 days."
+msgstr ""
+
+msgid "You didn't confirm your email address '#{email}'. You have received an email with an activation link."
+msgstr ""
+
+msgid "You didn't save any member as contact yet."
+msgstr ""
+
+msgid "You didn't set the level of notifications you like to receive"
+msgstr ""
+
+msgid "You do not like to vote this issue (yourself)"
+msgstr ""
+
+msgid "You have been voted"
+msgstr ""
+
+msgid "You have not voted #{count} issue(s) you were interested in"
+msgstr ""
+
+msgid "You have to mark 'Are you sure' to revoke!"
+msgstr ""
+
+msgid "You have voted"
+msgstr ""
+
+msgid "You have voted via delegation"
+msgstr ""
+
+msgid "You may choose one of the ongoing initiatives you are currently supporting"
+msgstr ""
+
+msgid "You need to confirm to deactivate!"
+msgstr ""
+
+msgid "You refused to become initiator of this initiative"
+msgstr ""
+
+msgid "You saved this member as contact (i.e. to use as delegatee)"
+msgstr ""
+
+msgid "You saved this member as contact (i.e. to use as delegatee) and others can see it"
+msgstr ""
+
+msgid "You were potential supporter"
+msgstr ""
+
+msgid "You were supporter"
+msgstr ""
+
+msgid "You've successfully registered and you can login now with your login and password!"
+msgstr ""
+
+msgid "Your avatar is a small photo, which will be shown always next to your name."
+msgstr ""
+
+msgid "Your choice"
+msgstr ""
+
+msgid "Your email address has been changed, please check for confirmation email with activation link!"
+msgstr ""
+
+msgid "Your login has been changed to '#{login}'"
+msgstr ""
+
+msgid "Your name has been changed"
+msgstr ""
+
+msgid "Your page has been updated"
+msgstr ""
+
+msgid "Your password has been updated successfully"
+msgstr ""
+
+msgid "Your photo will be shown in your profile."
+msgstr ""
+
+msgid "Your rating has been deleted"
+msgstr ""
+
+msgid "Your rating has been updated"
+msgstr ""
+
+msgid "Your request has been processed."
+msgstr ""
+
+msgid "Your suggestion has been added"
+msgstr ""
+
+msgid "Your support has been updated to the latest draft"
+msgstr ""
+
+msgid "Your vote has been discarded. Delegation rules apply if set."
+msgstr ""
+
+msgid "[Name of Language]"
+msgstr "English"
+
+msgid "[Not public]"
+msgstr ""
+
+msgid "[calculating]"
+msgstr ""
+
+msgid "[event mail]       URL: #{url}"
+msgstr "       URL: #{url}"
+
+msgid "[event mail]      Area: #{name}"
+msgstr "      Area: #{name}"
+
+msgid "[event mail]      Unit: #{name}"
+msgstr "      Unit: #{name}"
+
+msgid "[event mail]     Event: #{event}"
+msgstr "     Event: #{event}"
+
+msgid "[event mail]     Issue: ##{id}"
+msgstr "     Issue: ##{id}"
+
+msgid "[event mail]     Phase: #{phase}"
+msgstr "     Phase: #{phase}"
+
+msgid "[event mail]    Policy: #{policy}"
+msgstr "    Policy: #{policy}"
+
+msgid "[introduction] iniatives and issues"
+msgstr "LiquidFeedback is no survey, it doesn't ask you predefined questions. Instead every participant is allowed to post new initiatives containing a proposal and/or reasoning. As soon as the initiative is posted, all other participants can create alternative initiatives with counter proposals and/or reasoning. A group of concurring initiatives forms an issue. Issues in LiquidFeedback are numbered with a hash sign (e.g. #123) while initiatives are numbered with a leading \"i\" character (i456). In short: One issue may contain multiple initiatives. Only one initiative can win."
+
+msgid "[introduction] organizational units"
+msgstr "To allow discussions and decisions by sub groups of participants (e.g. by the members of a subdivision of an organization), participants can be assigned to different units. Every organizational unit can have its own subject areas."
+
+msgid "[introduction] phase 1 admission"
+msgstr "As every participant can open a new issue in LiquidFeedback, not all of them will be intersting for at least a minimum of the participants. Therefore new issues need to gain a given quorum of supporters to become accepted for further discussion. Issues which do not reach the necessary quorum will be closed at the end of the admission phase."
+
+msgid "[introduction] phase 2 discussion"
+msgstr "During the discussion phase all initiatives try to improve their proposals and reasoning to gain more supporters. The aim is to eventually reach the necessary majority and to beat alternative initiatives."
+
+msgid "[introduction] phase 3 verification"
+msgstr "During the verification phase, initiative drafts with the proposal and reasoning become final and cannot be changed any more. So everyone can double check everything. In case of some last minute situation, it is still possible to add competing initiatives. But they cannot be edited again and need to gain supporters from scratch."
+
+msgid "[introduction] phase 4 voting"
+msgstr "Every initiative reaching a required quorum of supporters at the end of the verification phase is admitted for voting and appears on the voting ballot. During the voting phase every eligible participant may give a vote using a preferential voting system allowing to express individual preferences between the initiatives in addition to a yes/neutral/no vote."
+
+msgid "[introduction] preference voting"
+msgstr "If there are similar competing proposals on the ballot, there is no necessity to choose one of them. Instead, it is possible to vote for (and against) as many initiatives as one wants to while being able to express the individual preferences amongst those initiatives during voting phase. Those preferences will determine the winner if more than one initiative has reached the necessary majority of approvals at end of voting phase. That way, nobody is encouraged to vote in favor of one initiative just to outrank another one, and nobody is encouraged to vote against an initiative just to increase the chances for another initiative to win."
+
+msgid "[introduction] rules of procedure"
+msgstr "A policy defines the timing, quorums and required majorities for an issue in LiquidFeedback. Initiators choose the fitting policy for their purpose when creating a new issue."
+
+msgid "[introduction] subject areas"
+msgstr "Issues are always assigned to a subject area in order to structure the discussion and decision process."
+
+msgid "[introduction] vote delegation"
+msgstr "Delegations allow for a dynamic division of labor. A delegation is a proxy statement (voting power under a power of attorney), can be altered at any time, is not bound to directives and can be delegated onward. Delegations can be used for a whole organizational unit, for a subject area within an organizational unit, or for a specific issue. More specific delegations overrule more general delegations. Delegations are used in both the discourse (phase 1 to 3) and the voting phase. Any activity suspends existing delegations for the given activity."
+
+msgid "[not displayed public]"
+msgstr ""
+
+msgid "abandoned"
+msgstr ""
+
+msgid "accept invitation"
+msgstr ""
+
+msgid "action"
+msgstr ""
+
+msgid "activate account"
+msgstr ""
+
+msgid "activated"
+msgstr ""
+
+msgid "add my interest"
+msgstr ""
+
+msgid "add my support"
+msgstr ""
+
+msgid "add to my list of private contacts"
+msgstr ""
+
+msgid "add to my list of public contacts"
+msgstr ""
+
+msgid "add your support (see above) and rate or write new suggestions (and thereby restrict your support to certain conditions if necessary)"
+msgstr ""
+
+msgid "all issues"
+msgstr ""
+
+msgid "allow invitation again"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "and #{count} more initiatives"
+msgstr ""
+
+msgid "area"
+msgstr ""
+
+msgid "at least #{count} approvals"
+msgstr ""
+
+msgid "at least #{count} approvals or abstentions"
+msgstr ""
+
+msgid "author"
+msgstr ""
+
+msgid "avatar/photo"
+msgstr ""
+
+msgid "block this member"
+msgstr ""
+
+msgid "browse through the competing initiatives"
+msgstr ""
+
+msgid "but"
+msgstr ""
+
+msgid "by A-Z"
+msgstr ""
+
+msgid "by Z-A"
+msgstr ""
+
+msgid "by default only those issues are shown, for which your are eligible to participate (change filters on top of the list)"
+msgstr ""
+
+msgid "by latest activity"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "cancel issue"
+msgstr ""
+
+msgid "cancel issue now"
+msgstr ""
+
+msgid "cancel registration"
+msgstr ""
+
+msgid "canceled"
+msgstr ""
+
+msgid "change avatar/photo"
+msgstr ""
+
+msgid "change my vote"
+msgstr ""
+
+msgid "change vote"
+msgstr ""
+
+msgid "change your login"
+msgstr ""
+
+msgid "change your notification email address"
+msgstr ""
+
+msgid "change your password"
+msgstr ""
+
+msgid "change your screen name"
+msgstr ""
+
+msgid "change/revoke area delegation"
+msgstr ""
+
+msgid "change/revoke delegation"
+msgstr ""
+
+msgid "change/revoke delegation of organizational unit"
+msgstr ""
+
+msgid "change/revoke delegation of subject area"
+msgstr ""
+
+msgid "change/revoke delegation only for this issue"
+msgstr ""
+
+msgid "change/revoke delegation only for this subject area"
+msgstr ""
+
+msgid "change/revoke issue delegation"
+msgstr ""
+
+msgid "check your "
+msgstr ""
+
+msgid "choose delegatee"
+msgstr ""
+
+msgid "choose issue delegatee"
+msgstr ""
+
+msgid "choose subject area delegatee"
+msgstr ""
+
+msgid "collapse subject areas"
+msgstr ""
+
+msgid "collective rating:"
+msgstr ""
+
+msgid "compare"
+msgstr ""
+
+msgid "compare revisions"
+msgstr ""
+
+msgid "confirm"
+msgstr ""
+
+msgid "confirmed address"
+msgstr ""
+
+msgid "database download"
+msgstr ""
+
+msgid "day [interval ago]"
+msgstr "day"
+
+msgid "day [interval time left]"
+msgstr "day"
+
+msgid "day [interval]"
+msgstr "day"
+
+msgid "days [interval ago]"
+msgstr "days"
+
+msgid "days [interval time left]"
+msgstr "days"
+
+msgid "days [interval]"
+msgstr "days"
+
+msgid "deactivated"
+msgstr ""
+
+msgid "delegated to"
+msgstr ""
+
+msgid "delegates to"
+msgstr ""
+
+msgid "delegation suspended during discussion"
+msgstr ""
+
+msgid "delete<br /><br />"
+msgstr ""
+
+msgid "developer settings"
+msgstr ""
+
+msgid "direct interest"
+msgstr ""
+
+msgid "discard"
+msgstr ""
+
+msgid "discard my vote"
+msgstr ""
+
+msgid "do not notify me about this voting anymore"
+msgstr ""
+
+msgid "download database"
+msgstr ""
+
+msgid "draft ID"
+msgstr ""
+
+msgid "draft history (#{count})"
+msgstr ""
+
+msgid "edit profile data"
+msgstr ""
+
+msgid "edit proposal and/or reasons"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "ends in #{state_time_left}"
+msgstr ""
+
+msgid "ends soon"
+msgstr ""
+
+msgid "failed #{quorum}"
+msgstr ""
+
+msgid "finished"
+msgstr ""
+
+msgid "global"
+msgstr ""
+
+msgid "hide details"
+msgstr ""
+
+msgid "i#{id}: #{name}"
+msgstr ""
+
+msgid "if you like to implement a suggestion in your proposal and/or reasons, update your initiative draft"
+msgstr ""
+
+msgid "implemented"
+msgstr ""
+
+msgid "implemented:"
+msgstr ""
+
+msgid "in all phases"
+msgstr ""
+
+msgid "in my areas"
+msgstr ""
+
+msgid "in my units"
+msgstr ""
+
+msgid "inactive"
+msgstr ""
+
+msgid "initiated by me"
+msgstr ""
+
+msgid "interest via delegation"
+msgstr ""
+
+msgid "interested directly or via delegation"
+msgstr ""
+
+msgid "invite another initiator"
+msgstr ""
+
+msgid "is implemented"
+msgstr ""
+
+msgid "is not implemented"
+msgstr ""
+
+msgid "issue"
+msgstr ""
+
+msgid "issue view"
+msgstr ""
+
+msgid "login name"
+msgstr ""
+
+msgid "login to participate"
+msgstr ""
+
+msgid "logout"
+msgstr ""
+
+msgid "make this contact private"
+msgstr ""
+
+msgid "make this contact public"
+msgstr ""
+
+msgid "member inactive"
+msgstr ""
+
+msgid "month [interval ago]"
+msgstr "month"
+
+msgid "month [interval time left]"
+msgstr "month"
+
+msgid "month [interval]"
+msgstr "month"
+
+msgid "months [interval ago]"
+msgstr "months"
+
+msgid "months [interval time left]"
+msgstr "months"
+
+msgid "months [interval]"
+msgstr "months"
+
+msgid "must"
+msgstr ""
+
+msgid "must be implemented"
+msgstr ""
+
+msgid "must not"
+msgstr ""
+
+msgid "my issues"
+msgstr ""
+
+msgid "neutral"
+msgstr ""
+
+msgid "newest first"
+msgstr ""
+
+msgid "no delegation set"
+msgstr ""
+
+msgid "no reverse beat path to status quo (including ties)"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "not admitted"
+msgstr ""
+
+msgid "not implemented"
+msgstr ""
+
+msgid "not voted by me"
+msgstr ""
+
+msgid "not yet"
+msgstr ""
+
+msgid "notification settings"
+msgstr ""
+
+msgid "notifications"
+msgstr ""
+
+msgid "notifications settings"
+msgstr ""
+
+msgid "oldest first"
+msgstr ""
+
+msgid "one step back"
+msgstr ""
+
+msgid "open the appropriate subject area for your issue and follow the instruction on that page."
+msgstr ""
+
+msgid "open the organizational unit, subject area or issue you like to delegate and follow the instruction on that page."
+msgstr ""
+
+msgid "or swipe"
+msgstr ""
+
+msgid "ordered by delegation count"
+msgstr ""
+
+msgid "phase ends soon"
+msgstr ""
+
+msgid "possibly instable result caused by multistage majority"
+msgstr ""
+
+msgid "preference voting"
+msgstr ""
+
+msgid "proceed with registration"
+msgstr ""
+
+msgid "prohibit potentially instable results caused by multistage majorities"
+msgstr ""
+
+msgid "public administrative notice:"
+msgstr ""
+
+msgid "publish avatar/photo"
+msgstr ""
+
+msgid "publish my rating"
+msgstr ""
+
+msgid "publish profile data"
+msgstr ""
+
+msgid "publish suggestion"
+msgstr ""
+
+msgid "published at"
+msgstr ""
+
+msgid "reached #{quorum}"
+msgstr ""
+
+msgid "refresh my support"
+msgstr ""
+
+msgid "refuse invitation"
+msgstr ""
+
+msgid "remove an initiator"
+msgstr ""
+
+msgid "remove from my contact list"
+msgstr ""
+
+msgid "remove my interest"
+msgstr ""
+
+msgid "remove my support"
+msgstr ""
+
+msgid "reverse beat path to status quo (including ties)"
+msgstr ""
+
+msgid "revoke"
+msgstr ""
+
+msgid "revoke initiative"
+msgstr ""
+
+msgid "revoked"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "select tabs"
+msgstr ""
+
+msgid "should"
+msgstr ""
+
+msgid "should be implemented"
+msgstr ""
+
+msgid "should not"
+msgstr ""
+
+msgid "show all units"
+msgstr ""
+
+msgid "show details"
+msgstr ""
+
+msgid "show differences"
+msgstr ""
+
+msgid "show other subject areas"
+msgstr ""
+
+msgid "show saved contacts"
+msgstr ""
+
+msgid "show subject areas"
+msgstr ""
+
+msgid "show vote"
+msgstr ""
+
+msgid "start a new competing initiative"
+msgstr ""
+
+msgid "start an initiative in a new issue"
+msgstr ""
+
+msgid "structured discussion"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+msgid "subscribe subject areas or add your interested to issues and you will be notified about changes (follow the instruction on the area or issue page)"
+msgstr ""
+
+msgid "subscribed"
+msgstr ""
+
+msgid "suggestions (#{count}) ↓"
+msgstr ""
+
+msgid "supporter"
+msgstr ""
+
+msgid "supporter with restricting suggestions"
+msgstr ""
+
+msgid "take a look at the competing initiatives"
+msgstr ""
+
+msgid "take a look at the suggestions (see left) and rate them"
+msgstr ""
+
+msgid "take a look at the suggestions of your supporters"
+msgstr ""
+
+msgid "take a look on the issues (see left)"
+msgstr ""
+
+msgid "the following login is connected to this email address:\n\n"
+msgstr ""
+
+msgid "this issue is in verification phase, therefore the initiative text cannot be updated anymore"
+msgstr ""
+
+msgid "this issue is in voting phase, therefore the initiative text cannot be updated anymore"
+msgstr ""
+
+msgid "timeline"
+msgstr ""
+
+msgid "to argue about suggestions, just add your arguments to your reasons in the initiative draft, so your supporters can learn about your opinion"
+msgstr ""
+
+msgid "to reset your password please click on the following link:\n\n"
+msgstr ""
+
+msgid "to show more info and learn what you can do"
+msgstr ""
+
+msgid "today at #{time}"
+msgstr ""
+
+msgid "unblock member"
+msgstr ""
+
+msgid "unconfirmed address"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "unit / area"
+msgstr ""
+
+msgid "unsubscribe"
+msgstr ""
+
+msgid "until"
+msgstr ""
+
+msgid "update area"
+msgstr ""
+
+msgid "update member"
+msgstr ""
+
+msgid "update policy"
+msgstr ""
+
+msgid "update unit"
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "via delegation"
+msgstr ""
+
+msgid "vote delegation"
+msgstr ""
+
+msgid "vote now"
+msgstr ""
+
+msgid "voted and not voted by me"
+msgstr ""
+
+msgid "voted by me"
+msgstr ""
+
+msgid "voted directly by me"
+msgstr ""
+
+msgid "voted no"
+msgstr ""
+
+msgid "voted via delegation"
+msgstr ""
+
+msgid "voted yes"
+msgstr ""
+
+msgid "without"
+msgstr ""
+
+msgid "without quorum"
+msgstr ""
+
+msgid "write a new suggestion"
+msgstr ""
+
+msgid "written and rated by the supportes of this initiative to improve the proposal and its reasons"
+msgstr ""
+
+msgid "xmpp"
+msgstr ""
+
+msgid "year [interval ago]"
+msgstr "year"
+
+msgid "year [interval time left]"
+msgstr "year"
+
+msgid "year [interval]"
+msgstr "year"
+
+msgid "years [interval ago]"
+msgstr "years"
+
+msgid "years [interval time left]"
+msgstr "years"
+
+msgid "years [interval]"
+msgstr "years"
+
+msgid "yesterday at #{time}"
+msgstr ""
+
+msgid "you are interested"
+msgstr ""
+
+msgid "you are subscribed"
+msgstr ""
+
+msgid "you have #{count} incoming delegations"
+msgstr ""
+
+msgid "you restricted your support by rating suggestions as must or must not"
+msgstr ""
+
+msgid "you voted"
+msgstr ""
